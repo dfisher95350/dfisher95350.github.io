@@ -8,8 +8,8 @@ I'm a professional software developer of many years experience.
 
 My personal repositories are private, but I've provided an overview here.
 
-- [repositories](./repositories/README.md)
-- [résumé](./resume/README.md)
+- [repositories](./repositories/index.md)
+- [résumé](./resume/index.md)
 
 ## Contact
 
