@@ -4,7 +4,13 @@ layout: default
 
 ![Java](../img/small-logo-100px-java.png)
 
-# Java
+# `java`
+
+My `java` repository is a polyglot collection of Java examples that demonstrate language features, techniques, and patterns. Includes Clojure, Groovy, Kotlin, and Scala. Builds with Maven or Gradle. Tests with JUnit and Spock.
+
+My professional experience with Java and JVM languages dates back to applets in version 1 (1996).
+
+`Clojure` `GraphQL` `Gradle` `Groovy` `Java` `JUnit` `Kotlin` `Maven` `Scala` `Spock` `Spring`
 
 _(This page is incomplete. WIP Aug 2020.)_
 

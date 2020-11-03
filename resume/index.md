@@ -20,11 +20,10 @@ I've gained diverse experience as a technical consultant for **three consulting 
 
 For more detail, see:
 
-- [Technologies](./technologies.md)
 - [Employment](./employment.md)
 - [Education](./education.md)
 
-My code [repositories](../repositories/README.md) (here on Github) reflect many of the same technologies used in my professional experience. The repositories serve as notebooks for general study and home-learning.
+For technical details, see the overview of my private [repositories](../repositories/README.md) (here on Github). They reflect many of the same technologies used in my professional experience.
 
 ## Personal Trivia
 

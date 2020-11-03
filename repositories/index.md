@@ -10,21 +10,8 @@ _(Note, I was late to GitHub. I'm a long-time user of the Atlassian suite and th
 
 ## Dev
 
-### java
-
-A polyglot collection of Java examples that demonstrate language features, techniques, and patterns. Includes Clojure, Groovy, Kotlin, and Scala. Builds with Maven or Gradle. Tests with JUnit and Spock.
-
-My professional experience with Java and JVM languages dates back to applets in version 1 (1996).
-
-`Clojure` `GraphQL` `Gradle` `Groovy` `Java` `JUnit` `Kotlin` `Maven` `Scala` `Spock` `Spring`
-
-### javascript
-
-A collection of JavaScript and TypeScript examples that demonstrate language features, techniques, and patterns. Tests with Mocha.
-
-My professional experience with JavaScript dates back to LiveWire in the Netscape Enterprise Server (1997).
-
-`Apollo` `GraphQL` `JavaScript` `Mocha` `Node.js` `npm` `Prisma` `React` `TypeScript` `Vue`
+- [java](./java.md)
+- [javascript](./javascript.md)
 
 ### go
 
