@@ -14,13 +14,13 @@ My `java` repository is a polyglot collection of Java examples that demonstrate 
 
 ### Java
 
-My first exposure to `Java`  goes back to applets in version 1.0, in 1996. I've been working professionally with Java non-stop ever since (both client and server-side). I attended my first JavaOne event in San Francisco in 1999 (v1.2).
+My first exposure to **Java**  goes back to applets in version 1.0, in 1996. I've been working professionally with Java non-stop ever since (both client and server-side). I attended my first JavaOne event in San Francisco in 1999 (v1.2).
 
 The Java Virtual Machine (JVM) has always been especially interesting for its polyglot capabilities. To that point, I've done significant production work with `Groovy` and `Kotlin`. I've used `Scala` and `Clojure` to a lesser extent.
 
 ### Groovy
 
-My first professional work with `Groovy` was from 2008-2011. The Groovy-based platform, `Grails`, had just been released. At the ISV where I worked at the time I introduced and bootstrapped a new product and technology stack revolving around Grails and the `Drools` Rules Engine. That ISV still uses Grails as the foundation of their technology stack to this day (in 2020).
+My first professional work with **Groovy** was from 2008-2011. The Groovy-based platform, **Grails**, had just been released. At the ISV where I worked at the time I introduced and bootstrapped a new product and technology stack revolving around Grails and the **Drools** Rules Engine. That ISV still uses Grails as the foundation of their technology stack to this day (in 2020).
 
 ### Kotlin
 
