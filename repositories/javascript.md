@@ -4,6 +4,8 @@ layout: default
 
 ![JavaScript](../img/small-logo-100px-javascript.png)
 
+_(This page is incomplete. WIP Nov 2020.)_
+
 My `javascript` repository is a collection of JavaScript and TypeScript examples that demonstrate language features, techniques, and patterns. Tests with Mocha.
                               
 My professional experience with JavaScript dates back to LiveWire in the Netscape Enterprise Server (1997).
