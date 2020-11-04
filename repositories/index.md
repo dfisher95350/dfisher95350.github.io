@@ -18,10 +18,10 @@ What follows is an overview.
 
 My professional experience revolves chiefly around the ecosystems of the **Java Virtual Machine (JVM)** and **JavaScript**. Happily, these ecosystems are _extremely rich_ and still evolving. My work has kept me hands-on with the most relevant technologies in both spaces from 1996 to the present.
 
-- [**java**](./java.md) - My professional experience with languages and frameworks in the `Java Virtual Machine (JVM)` dates back to applets in version 1 (1996). This repository includes many things, from `Akka` to `ZooKeeper`. Highlights include `Kotlin` and `Spring`.
-- [**javascript**](./javascript.md) - My professional experience with `JavaScript` dates back to LiveWire in the Netscape Enterprise Server (1997). This repository includes languages and frameworks like `TypeScript` and `React`.
+- [**java**](./java.md) - My professional experience with languages and frameworks in the **Java Virtual Machine (JVM)** dates back to applets in version 1 (1996). This repository includes many things, from **Akka** to **ZooKeeper**. Highlights include **Kotlin** and **Spring**.
+- [**javascript**](./javascript.md) - My professional experience with **JavaScript** dates back to LiveWire in the Netscape Enterprise Server (1997). This repository includes languages and frameworks like **TypeScript** and **React**.
 - **cpp** - C++
-- **dotnet** - Particularly `.NET Core` on Linux and macOS.
+- **dotnet** - Particularly **.NET Core** on Linux and macOS.
 - [go](./go.md)
 - [python](./python.md)
 - [ruby](./ruby.md)
