@@ -6,25 +6,21 @@ layout: default
 
 _(This page is incomplete. WIP Nov 2020.)_
 
-My `java` repository is a polyglot collection of Java examples that demonstrate language features, techniques, and patterns. Includes Clojure, Groovy, Kotlin, and Scala. Builds with Maven or Gradle. Tests with JUnit and Spock.
-
-My professional experience with Java and JVM languages dates back to applets in version 1 (1996).
+My `java` repository is a polyglot collection of Java examples that demonstrate language features, frameworks, techniques, and patterns. Includes Clojure, Groovy, Kotlin, and Scala. Builds with Maven or Gradle. Tests with JUnit and Spock.
 
 `Clojure` `GraphQL` `Gradle` `Groovy` `Java` `JUnit` `Kotlin` `Maven` `Scala` `Spock` `Spring`
-
-Much of my career has revolved around the Java ecosystem.
 
 ## Languages
 
 ### Java
 
-My first exposure to **Java** goes back to applets in version 1.0, in 1996. I've been working professionally with Java non-stop ever since (both client and server-side). I attended my first JavaOne event in San Francisco in 1999 (v1.2).
+My first exposure to `Java`  goes back to applets in version 1.0, in 1996. I've been working professionally with Java non-stop ever since (both client and server-side). I attended my first JavaOne event in San Francisco in 1999 (v1.2).
 
-The Java Virtual Machine (JVM) has always been especially interesting for its polyglot capabilities. To that point, I've done significant production work with Groovy and Kotlin -- and Scala and Clojure to a lesser extent.
+The Java Virtual Machine (JVM) has always been especially interesting for its polyglot capabilities. To that point, I've done significant production work with `Groovy` and `Kotlin`. I've used `Scala` and `Clojure` to a lesser extent.
 
 ### Groovy
 
-My first professional work with **Groovy** was from 2008-2011. The Groovy-based platform, **Grails**, had just been released. At the ISV where I worked at the time, I introduced and bootstrapped a new product and technology stack revolving around **Grails** and the **Drools** Rules Engine. They still use Grails as the foundation of their technology stack to this day (in 2020).
+My first professional work with `Groovy` was from 2008-2011. The Groovy-based platform, `Grails`, had just been released. At the ISV where I worked at the time I introduced and bootstrapped a new product and technology stack revolving around Grails and the `Drools` Rules Engine. That ISV still uses Grails as the foundation of their technology stack to this day (in 2020).
 
 ### Kotlin
 
