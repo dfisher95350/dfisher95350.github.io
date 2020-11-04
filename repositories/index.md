@@ -12,7 +12,9 @@ What follows is an overview.
 
 ## General
 
-- notebook - A repository of documents and notes on general topics in technology: concepts, patterns, providers, resources, standards, and tools. Also contains general information on data science, data stores, and data structures.
+I've been designing, recommending, and making technical architecture decisions for twenty years. My chief expertise is in designing SaaS applications, but my consulting experience includes even hardware infrastructure. Furthermore, my tenure guiding the development of an Enterprise Architecture product has given me special insight into that practice and body of knowledge.
+
+- **notebook** - A repository of documents and notes on general topics in technology: concepts, patterns, providers, resources, standards, and tools. Also contains general information on data science, data stores, and data structures.
 
 ## Dev
 
