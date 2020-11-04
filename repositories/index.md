@@ -4,7 +4,13 @@ layout: default
 
 # My Repositories
 
-I have a number of **private repositories** for self-study, etc. Here's a summary of those. 
+I have a number of **private repositories** for self-study, etc. These repositories reflect both my technical experience and technical interests.
+
+What follows is an overview. 
+
+## General
+
+- notebook - A repository of documents and notes on general topics in technology: concepts, patterns, providers, resources, standards, and tools. Also contains general information on data science, data stores, and data structures.
 
 ## Dev
 
