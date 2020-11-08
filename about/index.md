@@ -20,10 +20,9 @@ I've gained diverse experience as a technical consultant for **three consulting 
 
 For more detail, see:
 
-- [Employment](./employment.md)
-- [Education](./education.md)
-
-For technical details, see the overview of my private [repositories](../repositories/index.md) (here on Github). They reflect many of the same technologies used in my professional experience.
+- [Experience](./)
+- [Employment](../employment/employment.md)
+- [Education](../education/education.md)
 
 ## Personal Trivia
 
