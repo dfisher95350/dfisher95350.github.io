@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# My Repositories
+# Experience
 
 _(This page is incomplete. WIP Nov 2020.)_
 
-I have a number of **private repositories** for self-study, etc. These repositories reflect both my technical experience and technical interests.
+My **technical experience** and interests are reflected in my **private GitHub repositories**. These repositories are for self-study, etc.
 
 What follows is an overview. 
 
@@ -24,17 +24,17 @@ My professional experience revolves chiefly around the ecosystems of the **Java 
 - [**javascript**](./javascript.md) - My professional experience with **JavaScript** dates back to LiveWire in the Netscape Enterprise Server (1997). This repository includes languages and frameworks like **TypeScript** and **React**.
 - **cpp** - C++
 - **dotnet** - Particularly **.NET Core** on Linux and macOS.
-- [go](./go.md)
-- [python](./python.md)
-- [ruby](./ruby.md)
-- [rust](./rust.md)
-- [unity](./unity.md)
+- **go**
+- **python**
+- **ruby**
+- **rust**
+- **unity**
 
 ## DevOps
 
 I have long professional experience with **Amazon Web Services (AWS)**, including **Chef** in OpsWorks. My chief interest in this area revolves around what these technologies mean for packaging and delivering components in repeatable, standards-based fashion. You'll see that reflected in my repositories here.
 
-- [docker](./docker.md)
-- [kubernetes](./kubernetes.md)
-- [vagrant](./vagrant.md)
-- [my_env](./my_env.md)
+- **docker**
+- **kubernetes**
+- **vagrant**
+- **my_env**
