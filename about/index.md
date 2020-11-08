@@ -20,9 +20,9 @@ I've gained diverse experience as a technical consultant for **three consulting 
 
 For more detail, see:
 
-- [Experience](./)
-- [Employment](../employment/employment.md)
-- [Education](../education/education.md)
+- [Experience](../experience)
+- [Employment](../employment)
+- [Education](../education)
 
 ## Personal Trivia
 
