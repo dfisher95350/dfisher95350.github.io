@@ -42,5 +42,5 @@ On GitHub:
 
 - **docker** - A private repository containing configurations for test and study.
 - **kubernetes** - A private repository containing configurations for test and study.
-- **maven** - A private repository used to bootstrap feature-rich, polyglot projects for the Java Virtual Machine (JVM).
+- **maven** - A private repository used to bootstrap feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
 - **vagrant** - This private repository contains a small collection of Vagrant box configurations for personal development environments. Portable across platforms (macOS, Windows, Linux). Boxes are versioned and stored in AWS S3.
