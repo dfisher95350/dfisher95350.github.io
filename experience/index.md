@@ -4,37 +4,41 @@ layout: default
 
 # Experience
 
-_(This page is incomplete. WIP Nov 2020.)_
-
-My **technical experience** and interests are reflected in my **private GitHub repositories**. These repositories are for self-study, etc.
-
-What follows is an overview. 
-
 ## General
 
-I've been designing, recommending, and making technical architecture decisions for twenty years. My chief expertise is in designing SaaS applications, but my consulting experience includes even hardware infrastructure. Furthermore, my tenure guiding the development of an Enterprise Architecture product has given me special insight into that practice and body of knowledge.
+I've been designing, recommending, and making technical architecture decisions for twenty years. My chief expertise is in designing and building Software-as-a-Service (SaaS) applications, but my consulting experience includes even hardware infrastructure. Furthermore, my tenure guiding the development of an Enterprise Architecture product has given me special insight into that practice and body of knowledge.
 
-- **notebook** - A repository of documents and notes on general topics in technology: concepts, patterns, providers, resources, standards, and tools. Also contains general information on data science, data stores, and data structures.
+On GitHub:
+
+- **notebook** - A private repository of documents and notes on general topics in technology: concepts, patterns, providers, resources, standards, and tools.
 
 ## Dev
 
 My professional experience revolves chiefly around the ecosystems of the **Java Virtual Machine (JVM)** and **JavaScript**. Happily, these ecosystems are _extremely rich_ and still evolving. My work has kept me hands-on with the most relevant technologies in both spaces from 1996 to the present.
 
-- [**java**](./java.md) - My professional experience with languages and frameworks in the **Java Virtual Machine (JVM)** dates back to applets in version 1 (1996). This repository includes many things, from **Akka** to **ZooKeeper**. Highlights include **Kotlin** and **Spring**.
-- [**javascript**](./javascript.md) - My professional experience with **JavaScript** dates back to LiveWire in the Netscape Enterprise Server (1997). This repository includes languages and frameworks like **TypeScript** and **React**.
-- **cpp** - C++
-- **dotnet** - Particularly **.NET Core** on Linux and macOS.
-- **go**
-- **python**
-- **ruby**
-- **rust**
-- **unity**
+- My professional experience with **Java** dates back to applets in version 1 (1996). 
+- My professional experience with **JavaScript** dates back to LiveWire in the Netscape Enterprise Server (1997).
+
+On GitHub:
+
+- **java** - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
+- **javascript** - This private repository includes projects and exercises that leverage languages and frameworks like **TypeScript** and **React**.
+- **cpp** - A private repository for C++ study.
+- **data** - data science, data stores, and data structures
+- **dotnet** - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
+- **go** - A private repository for Go study.
+- **maven** - A private repository used to bootstrap feature-rich, polyglot projects for the Java Virtual Machine (JVM).
+- **python** - A private repository for Python study.
+- **ruby** - A private repository for Ruby study.
+- **rust** - A private repository for Rust study.
+- **unity** - A private repository of Unity tutorials.
 
 ## DevOps
 
 I have long professional experience with **Amazon Web Services (AWS)**, including **Chef** in OpsWorks. My chief interest in this area revolves around what these technologies mean for packaging and delivering components in repeatable, standards-based fashion. You'll see that reflected in my repositories here.
 
-- **docker**
-- **kubernetes**
-- **vagrant**
-- **my_env**
+On GitHub:
+
+- **docker** - A private repository containing configurations for test and study.
+- **kubernetes** - A private repository containing configurations for test and study.
+- **vagrant** - This private repository contains a small collection of Vagrant box configurations for personal development environments. Portable across platforms (macOS, Windows, Linux). Boxes are versioned and stored in AWS S3.
