@@ -6,7 +6,9 @@ layout: default
 
 ## General
 
-I've been designing, recommending, and making technical architecture decisions for twenty years. My chief expertise is in designing and building Software-as-a-Service (SaaS) applications, but my consulting experience includes even hardware infrastructure. Furthermore, my tenure guiding the development of an Enterprise Architecture product has given me special insight into that practice and body of knowledge.
+I've been designing, recommending, and making technical architecture decisions for twenty years. My chief expertise is in designing and building **Software-as-a-Service** (SaaS) applications, but my consulting experience includes even hardware infrastructure.
+
+Furthermore, my tenure guiding the development of an **Enterprise Architecture** product has given me special insight into that practice and body of knowledge.
 
 On GitHub:
 
