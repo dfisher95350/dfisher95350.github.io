@@ -27,7 +27,6 @@ On GitHub:
 - **data** - data science, data stores, and data structures
 - **dotnet** - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
 - **go** - A private repository for Go study.
-- **maven** - A private repository used to bootstrap feature-rich, polyglot projects for the Java Virtual Machine (JVM).
 - **python** - A private repository for Python study.
 - **ruby** - A private repository for Ruby study.
 - **rust** - A private repository for Rust study.
@@ -41,4 +40,5 @@ On GitHub:
 
 - **docker** - A private repository containing configurations for test and study.
 - **kubernetes** - A private repository containing configurations for test and study.
+- **maven** - A private repository used to bootstrap feature-rich, polyglot projects for the Java Virtual Machine (JVM).
 - **vagrant** - This private repository contains a small collection of Vagrant box configurations for personal development environments. Portable across platforms (macOS, Windows, Linux). Boxes are versioned and stored in AWS S3.
