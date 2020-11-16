@@ -4,6 +4,16 @@ layout: default
 
 # Employment
 
+A detailed summary of my employment history.
+
+For more about me, see:
+
+- [About Me](../about)
+- [Experience](../experience)
+- [Education](../education)
+
+(Or return to the [top](../index.md) page.)
+
 ## VP of Engineering
 
 **Changepoint** Apr 2015 – Present

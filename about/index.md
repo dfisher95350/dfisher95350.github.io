@@ -12,17 +12,13 @@ I have more than 20 years of software development experience in diverse business
 
 My comfort-zone is deep and broad: low-level code to high-level design. I lead teams and mentor developers. I have strong abilities to document, prioritize and organize, as well as excellent communication skills.
 
-## Professional Experience
-
-I've held leadership roles in **four Independent Software Vendors (ISV)**, including **two greenfield startups**.
-
-I've gained diverse experience as a technical consultant for **three consulting groups**.
-
 For more detail, see:
 
 - [Experience](../experience)
 - [Employment](../employment)
 - [Education](../education)
+
+(Or return to the [top](../index.md) page.)
 
 ## Personal Trivia
 
@@ -32,7 +28,7 @@ I was the main contributor in the small team that founded **mpr.org** for **Minn
 
 Before that, I was a book buyer (and book seller) for **Odegard Books of Minneapolis** until Dan Odegard closed up in the face of expansion by national chain stores. In its day, Odegard Books of Minneapolis was one of the great independents (think Powell's of Portland). Obviously, this is where I discovered and dove into many of my favorite authors of classic fiction.
 
-My computing experiences date back to my childhood. My very first personal computer was the Sinclair ZX81, followed by the **Apple II Plus**. Apple BASIC was the first programming language with which I spent significant time. My father had a quota of free credits at Minnesota State Mankato, which I used to study Computer Science during my high school years.
+My computing experiences date back to my childhood. My very first personal computer was the Sinclair ZX81, followed by the **Apple II Plus**. Apple BASIC was the first programming language with which I spent significant time. As an administrator, my father had a quota of free credits at **Minnesota State University** (Mankato), where I studied **Computer Science** during my high school years.
 
 ## Contact
 
@@ -41,3 +37,7 @@ Douglas Fisher
 douglas.jon.fisher@gmail.com
 
 612-325-3826
+
+GitHub: [https://github.com/dfisher95350](https://github.com/dfisher95350)
+
+LinkedIn: [https://www.linkedin.com/in/douglas-fisher-0a43971/](https://www.linkedin.com/in/douglas-fisher-0a43971/)
