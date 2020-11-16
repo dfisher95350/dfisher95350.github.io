@@ -12,12 +12,6 @@ I have more than 20 years of software development experience in diverse business
 
 My comfort-zone is deep and broad: low-level code to high-level design. I lead teams and mentor developers. I have strong abilities to document, prioritize and organize, as well as excellent communication skills.
 
-## Professional Experience
-
-I've held leadership roles in **four Independent Software Vendors (ISV)**, including **two greenfield startups**.
-
-I've gained diverse experience as a technical consultant for **three consulting groups**.
-
 For more detail, see:
 
 - [Experience](../experience)
