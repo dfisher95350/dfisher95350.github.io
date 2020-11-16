@@ -4,6 +4,16 @@ layout: default
 
 # Education
 
+A detailed summary of my educational background.
+
+For more about me, see:
+
+- [About Me](../about)
+- [Experience](../experience)
+- [Employment](../employment)
+
+(Or return to the [top](../index.md) page.)
+
 ## St. Olaf College
 
 Northfield, Minnesota
