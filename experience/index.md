@@ -26,7 +26,7 @@ On GitHub:
 - **java** - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
 - **javascript** - This private repository includes projects and exercises that leverage languages and frameworks like **TypeScript** and **React**.
 - **cpp** - A private repository for C++ study.
-- **data** - data science, data stores, and data structures
+- **data** - A private repository for data science, data stores (**MySQL**, **Neo4j**, etc.), and data structures (**JSON**, **GraphQL**, etc.).
 - **dotnet** - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
 - **go** - A private repository for Go study.
 - **python** - A private repository for Python study.
