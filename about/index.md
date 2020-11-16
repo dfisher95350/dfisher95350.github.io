@@ -32,7 +32,7 @@ I was the main contributor in the small team that founded **mpr.org** for **Minn
 
 Before that, I was a book buyer (and book seller) for **Odegard Books of Minneapolis** until Dan Odegard closed up in the face of expansion by national chain stores. In its day, Odegard Books of Minneapolis was one of the great independents (think Powell's of Portland). Obviously, this is where I discovered and dove into many of my favorite authors of classic fiction.
 
-My computing experiences date back to my childhood. My very first personal computer was the Sinclair ZX81, followed by the **Apple II Plus**. Apple BASIC was the first programming language with which I spent significant time. My father had a quota of free credits at Minnesota State Mankato, which I used to study Computer Science during my high school years.
+My computing experiences date back to my childhood. My very first personal computer was the Sinclair ZX81, followed by the **Apple II Plus**. Apple BASIC was the first programming language with which I spent significant time. As an administrator, my father had a quota of free credits at **Minnesota State University** (Mankato), where I studied **Computer Science** during my high school years.
 
 ## Contact
 
