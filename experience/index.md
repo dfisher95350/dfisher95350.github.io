@@ -4,6 +4,8 @@ layout: default
 
 # Experience
 
+Here you'll find a general overview of my technical experience and interests. For a detailed, chronological view, see my [Employment](../employment) and [Education](../education) histories.
+
 ## General
 
 I've been designing, recommending, and making technical architecture decisions for twenty years. My chief expertise is in designing and building **Software-as-a-Service** (SaaS) applications, but my consulting experience includes even hardware infrastructure.
