@@ -4,7 +4,7 @@ layout: default
 
 # Experience
 
-Here you'll find a general overview of my technical experience and interests, with the context of my private repositories here on GitHub. For a detailed, chronological view, see my [Employment](../employment) and [Education](../education) histories. For my technical "origin story", see [About Me](../about). (Or return to the [top](../index.md) page.)
+Here you'll find a general overview of my technical experience and interests, in the context of my private repositories here on GitHub. For a detailed, chronological view, see my [Employment](../employment) and [Education](../education) histories. For my technical "origin story", see [About Me](../about). (Or return to the [top](../index.md) page.)
 
 ## General
 
