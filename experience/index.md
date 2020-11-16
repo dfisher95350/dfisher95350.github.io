@@ -4,7 +4,7 @@ layout: default
 
 # Experience
 
-Here you'll find a general overview of my technical experience and interests. For a detailed, chronological view, see my [Employment](../employment) and [Education](../education) histories.
+Here you'll find a general overview of my technical experience and interests. For a detailed, chronological view, see my [Employment](../employment) and [Education](../education) histories. (Or return to the [top](../index.md) page.)
 
 ## General
 
