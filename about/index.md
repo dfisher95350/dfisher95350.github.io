@@ -24,6 +24,8 @@ For more detail, see:
 - [Employment](../employment)
 - [Education](../education)
 
+(Or return to the [top](../index.md) page.)
+
 ## Personal Trivia
 
 Out of college, I played key roles in two Minnesota institutions.
