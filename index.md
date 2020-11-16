@@ -23,3 +23,7 @@ Douglas Fisher
 douglas.jon.fisher@gmail.com
 
 612-325-3826
+
+GitHub: https://github.com/dfisher95350
+
+LinkedIn: https://www.linkedin.com/in/douglas-fisher-0a43971/
