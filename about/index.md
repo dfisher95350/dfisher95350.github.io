@@ -10,7 +10,7 @@ Bridging quality engineering into quality product (and vice-versa) has been my c
 
 I have more than 20 years of software development experience in diverse business domains. I've designed and implemented sophisticated, high-volume, business-critical systems. I've set product and technology vision and planned technical and product roadmaps.
 
-My comfort-zone is deep and broad: low-level code to high-level design. I lead teams and mentor developers. I have strong abilities to document, prioritize and organize, as well as excellent communication skills.
+My comfort-zone is deep and broad: low-level code to high-level design. I lead teams and mentor developers. I have strong abilities to document, prioritize, and organize, as well as excellent communication skills.
 
 For more detail, see:
 
