@@ -44,7 +44,7 @@ On GitHub:
 
 ## DevOps
 
-I have long professional experience with **Amazon Web Services (AWS)**, including **Chef** in OpsWorks. My chief interest in this area revolves around what these technologies mean for packaging and delivering components in repeatable, standards-based fashion. You'll see that reflected in my repositories here.
+I have long professional experience with **Amazon Web Services (AWS)**, including **Chef** in OpsWorks. My chief interest in this area revolves around what these technologies mean for packaging and delivering components in repeatable, standards-based fashion.
 
 On GitHub:
 
