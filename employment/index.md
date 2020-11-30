@@ -24,7 +24,7 @@ My role with Changepoint has been to continue the development, operation, and su
 
 We built our team around an ethic of close customer care blended seamlessly with ambitious software innovation. barometerIT continues to serve a number of "Fortune 100" companies in North America -- and now "Global 500" companies in other geographies worldwide.
 
-In the role of product manager: Helped to nurture customer relationships in order to maintain an extremely high retention rate. Transitioned fresh product ideas rapidly into functional prototypes, and then quickly into shippable software. Continuously ensured that technical debt was always addressed in the context of marketable product gains. Kept the software fresh and relevant (always a concern in independent software vendors).
+In the role of product manager: Helped to nurture customer relationships in order to maintain an extremely high retention rate. Transitioned fresh product ideas rapidly into functional prototypes, and then quickly into shippable software. Continuously ensured that technical debt was always addressed in the context of marketable product gains. Kept the software fresh and relevant -- always a concern in independent software vendors.
 
 In the role of chief technologist: Led engineers in the Java and JavaScript ecosystems, as well as DevOps on the Amazon Web Services (AWS) platform. Key frameworks and tools included React, Redux, Cytoscape, Node.js, Spring (and nearly all of the Spring sub-frameworks, including Data Flow), Hibernate, Tomcat, Solr, MySQL, and Neo4j. Particularly, I continued to lead the transition from Solr and MySQL to a true graph solution with Neo4j.
 
