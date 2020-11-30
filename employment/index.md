@@ -4,7 +4,7 @@ layout: default
 
 # Employment
 
-A detailed summary of my employment history.
+A detailed summary of my employment history as a sotware engineer, technical architect, product manager, and chief technologist.
 
 For more about me, see:
 
