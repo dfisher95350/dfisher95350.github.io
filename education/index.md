@@ -32,7 +32,7 @@ Languages studied: Danish, German, Old Norse.
 
 Providence, Rhode Island
 
-Enrolled in Master's Degree program with fellowship, 1995 (did not complete).
+Enrolled in Master's Degree program with fellowship, 1995.
 
 Concentration: Archeology and Art History.
 
@@ -42,7 +42,7 @@ Languages studied: Latin.
 
 Minneapolis, Minnesota
 
-Miscellaneous study not directed at any degree.
+Miscellaneous study.
 
 Concentration: Philosophy.
 
