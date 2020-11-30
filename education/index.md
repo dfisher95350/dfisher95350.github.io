@@ -32,7 +32,7 @@ Languages studied: Danish, German, Old Norse.
 
 Providence, Rhode Island
 
-Enrolled in Master's Degree program with fellowship, 1995.
+Master's Degree program with fellowship, 1995.
 
 Concentration: Archeology and Art History.
 
