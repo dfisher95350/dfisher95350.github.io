@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 
-I've worn many hats in and around software engineering. Throughout, I've always kept one foot (at least) in the codebase, even when bridging into people management, product management, and pragmatic marketing.
+I've worn many hats in and around software engineering. Throughout, I've always kept one foot in the codebase, even when bridging into people management, product management, and pragmatic marketing.
 
 Bridging quality engineering into quality product (and vice-versa) has been my chief professional interest.
 
@@ -24,7 +24,7 @@ For more detail, see:
 
 Out of college, I played key roles in two Minnesota institutions.
 
-I was the main contributor in the small team that founded **mpr.org** for **Minnesota Public Radio**. The Web presence then was much more ambitious then than it is today. At the time (based on the popularity of "A Prairie Home Companion") **Netscape** made significant financial, hardware, and software contributions. We were provided resources for interesting new projects, including pioneering early video netcasts. This is where I started with **Java** and **JavaScript**. (This was also the heyday of **Perl**.)
+I was the main contributor in the team that founded **mpr.org** for **Minnesota Public Radio**. The Web presence then was much more ambitious than it is today. At the time (based on the popularity of "A Prairie Home Companion") **Netscape** made significant financial, hardware, and software contributions. We were provided resources for interesting new projects, including pioneering early video netcasts. This is where I started with **Java** and **JavaScript**. (This was also the heyday of **Perl**.)
 
 Before that, I was a book buyer (and book seller) for **Odegard Books of Minneapolis** until Dan Odegard closed up in the face of expansion by national chain stores. In its day, Odegard Books of Minneapolis was one of the great independents (think Powell's of Portland). This is where I discovered and dove into many of my favorite authors of classic fiction.
 
