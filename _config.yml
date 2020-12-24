@@ -1,5 +1,9 @@
-layout: sidebar
-style: light
+title: Douglas Fisher
+description: Software Technology Development & Leadership
+theme: jekyll-theme-slate
+
+#layout: sidebar
+#style: light
 
 plugins:
   - jekyll-octicons
