@@ -8,6 +8,8 @@ I'm a professional software developer of many years experience.
 
 I've held leadership roles in **four Independent Software Vendors (ISV)**, including **two greenfield startups**.
 
+I've shepherded a greenfield ISV startup to **acquisition** and subsequent growth.
+
 I've gained diverse experience as a technical consultant for **three consulting groups**.
 
 
