@@ -17,6 +17,7 @@ For more detail, see:
 - [Experience](../experience)
 - [Employment](../employment)
 - [Education](../education)
+- [Repositories](../repositories)
 
 (Or return to the [top](../index.md) page.)
 

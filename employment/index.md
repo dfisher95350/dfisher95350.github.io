@@ -11,6 +11,7 @@ For more about me, see:
 - [About Me](../about)
 - [Experience](../experience)
 - [Education](../education)
+- [Repositories](../repositories)
 
 (Or return to the [top](../index.md) page.)
 

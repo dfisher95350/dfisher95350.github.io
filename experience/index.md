@@ -4,11 +4,16 @@ layout: default
 
 # Experience
 
-Here you'll find a general overview of my technical experience and interests. For more, see:
+_(This page is a work-in-progress: it is not complete.)_
+
+Here you'll find a general overview of my technical experience and interests.
+
+For more, see:
 
 - [About Me](../about)
 - [Employment](../employment)
 - [Education](../education)
+- [Repositories](../repositories)
 
 (Or return to the [top](../index.md) page.)
 
@@ -18,37 +23,112 @@ I've been designing, recommending, and making technical architecture decisions f
 
 Furthermore, my tenure guiding the development of an **Enterprise Architecture** product has given me special insight into that practice and body of knowledge.
 
-On GitHub:
-
-- **notebook** - A private repository of documents and notes on general topics in technology: concepts, patterns, providers, resources, standards, and tools.
-
 ## Dev
 
 My professional experience revolves chiefly around the ecosystems of the **Java Virtual Machine (JVM)** and **JavaScript**. Happily, these ecosystems are _extremely rich_ and still evolving. My work has kept me hands-on with the most relevant technologies in both spaces from 1996 to the present.
 
-- My professional experience with **Java** dates back to applets in version 1 (1996). 
-- My professional experience with **JavaScript** dates back to LiveWire in the Netscape Enterprise Server (1997).
+### Java
 
-On GitHub:
+My professional experience with **Java** dates back to applets in version 1 (1996).
 
-- **java** - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
-- **javascript** - This private repository includes projects and exercises that leverage languages and frameworks like **TypeScript** and **React**.
-- **cpp** - A private repository for C++ study.
-- **data** - A private repository for data science, data stores (**MySQL**, **Neo4j**, etc.), and data structures (**JSON**, **GraphQL**, etc.).
-- **dotnet** - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
-- **go** - A private repository for Go study.
-- **python** - A private repository for Python study.
-- **ruby** - A private repository for Ruby study.
-- **rust** - A private repository for Rust study.
-- **unity** - A private repository of Unity tutorials.
+My professional experience with JVM-based languages includes:
+
+- Groovy
+- Java
+- Kotlin
+
+My professional experience with JVM-based specifications includes:
+
+- JDBC
+- JMS  
+- JTA
+
+My professional experience with Java frameworks includes:
+
+- ActiveMQ
+- Ant
+- Drools
+- Grails  
+- Hibernate
+- Infinispan
+- Joda
+- JUnit  
+- Maven
+- Mule  
+- Quartz 
+- Spock
+- Spring AOP
+- Spring Batch
+- Spring Boot
+- Spring Data  
+- Spring Framework
+- Spring Integration
+- Spring Security
+- Spring Test  
+- Tomcat
+- Wicket
+- ZooKeeper
+
+In the deeper dustbin of history, I worked with:
+
+- EJB (specification)
+- JEE (specification)
+- JBoss
+- WebLogic
+- WebSphere
+
+### JavaScript
+
+My professional experience with **JavaScript** dates back to LiveWire in the Netscape Enterprise Server (1997).
+
+My professional experience with JavaScript frameworks includes:
+
+- AngularJS
+- Cytoscape
+- D3  
+- gulp
+- Jasmine
+- jQuery  
+- Karma
+- Lodash  
+- Mocha
+- Moment  
+- Node.js
+- npm
+- React
+- Redux
+- webpack
+
+In the deeper dustbin of history, I worked with:
+
+- Dojo
+- LiveWire
+
+### Data
+
+My professional experience with data stores includes:
+
+- MySQL
+- Neo4j
+- Oracle  
+- Solr
+
+In the deeper dustbin of history, I worked with:
+
+- DB2
+- Informix
 
 ## DevOps
 
 I have long professional experience with **Amazon Web Services (AWS)**, including **Chef** in OpsWorks. My chief interest in this area revolves around what these technologies mean for packaging and delivering components in repeatable, standards-based fashion.
 
-On GitHub:
+My professional experience with DevOps tools includes:
 
-- **docker** - A private repository containing configurations for test and study.
-- **kubernetes** - A private repository containing configurations for test and study.
-- **maven** - A private repository used to bootstrap feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
-- **vagrant** - This private repository contains a small collection of Vagrant box configurations for personal development environments. Portable across platforms (macOS, Windows, Linux). Boxes are versioned and stored in AWS S3.
+- Amazon Web Services (AWS)
+- Chef
+- Docker
+- Vagrant
+
+In the deeper dustbin of history, I worked with:
+
+- Make
