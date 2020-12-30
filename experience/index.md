@@ -23,6 +23,18 @@ I've been designing, recommending, and making technical architecture decisions f
 
 Furthermore, my tenure guiding the development of an **Enterprise Architecture** product has given me special insight into that practice and body of knowledge.
 
+My professional experience with general standards and specifications includes:
+
+- BIZBOK
+- ISO 27001  
+- ITIL
+- ITSM
+- OAuth
+- OpenID
+- SAML
+- UML
+- TOGAF
+
 ## Dev
 
 My professional experience revolves chiefly around the ecosystems of the **Java Virtual Machine (JVM)** and **JavaScript**. Happily, these ecosystems are _extremely rich_ and still evolving. My work has kept me hands-on with the most relevant technologies in both spaces from 1996 to the present.
@@ -37,10 +49,14 @@ My professional experience with JVM-based languages includes:
 - Java
 - Kotlin
 
-My professional experience with JVM-based specifications includes:
+My professional experience implementing JVM-based specifications includes:
 
+- JAX-RS
+- JAX-WS
 - JDBC
-- JMS  
+- JMS
+- JMX
+- JPA  
 - JTA
 
 My professional experience with Java frameworks includes:
@@ -52,9 +68,12 @@ My professional experience with Java frameworks includes:
 - Hibernate
 - Infinispan
 - Joda
+- Jolokia
 - JUnit  
+- Logback  
 - Maven
-- Mule  
+- Metrics  
+- Mule
 - Quartz 
 - Spock
 - Spring AOP
@@ -84,13 +103,14 @@ My professional experience with **JavaScript** dates back to LiveWire in the Net
 My professional experience with JavaScript frameworks includes:
 
 - AngularJS
+- Browserify
 - Cytoscape
-- D3  
+- D3
 - gulp
 - Jasmine
-- jQuery  
+- jQuery
 - Karma
-- Lodash  
+- Lodash
 - Mocha
 - Moment  
 - Node.js
@@ -125,6 +145,11 @@ I have long professional experience with **Amazon Web Services (AWS)**, includin
 My professional experience with DevOps tools includes:
 
 - Amazon Web Services (AWS)
+    - IAM
+    - EC2
+    - OpWorks
+    - RDS
+    - S3
 - Chef
 - Docker
 - Vagrant
