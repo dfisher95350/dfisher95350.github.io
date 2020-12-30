@@ -24,7 +24,8 @@ Furthermore, my tenure guiding the development of an **Enterprise Architecture**
 My professional experience with general standards and specifications includes:
 
 - BIZBOK
-- ISO 27001  
+- COBIT
+- ISO 27001
 - ITIL
 - ITSM
 - OAuth
