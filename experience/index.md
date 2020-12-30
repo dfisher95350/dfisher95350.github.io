@@ -4,7 +4,7 @@ layout: default
 
 # Experience
 
-Here you'll find a general overview of my technical experience and interests. _This page is surely incomplete._ ;)
+Here you'll find an overview of my professional technical experience.
 
 For more, see:
 
