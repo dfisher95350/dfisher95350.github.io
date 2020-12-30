@@ -4,9 +4,7 @@ layout: default
 
 # Experience
 
-_(This page is a work-in-progress: it is not complete.)_
-
-Here you'll find a general overview of my technical experience and interests.
+Here you'll find a general overview of my technical experience and interests. _This page is surely incomplete._ ;)
 
 For more, see:
 
