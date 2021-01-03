@@ -30,6 +30,7 @@ My professional experience with general standards and specifications includes:
 - ITSM
 - OAuth
 - OpenID
+- OWASP
 - SAML
 - UML
 - TOGAF
@@ -48,7 +49,7 @@ My professional experience with JVM-based languages includes:
 - Java
 - Kotlin
 
-My professional experience implementing JVM-based specifications includes:
+My professional experience implementing solutions based on JVM-based specifications includes:
 
 - JAX-RS
 - JAX-WS
