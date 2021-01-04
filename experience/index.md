@@ -93,6 +93,7 @@ In the deeper dustbin of history, I worked with:
 - EJB (specification)
 - JEE (specification)
 - JBoss
+- Struts
 - WebLogic
 - WebSphere
 
