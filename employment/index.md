@@ -17,7 +17,13 @@ For more about me, see:
 
 ## VP of Engineering
 
-**Changepoint** Apr 2015 – Present
+**PLanview** Jan 2021 - present
+
+In January 2021, Changepoint was acquired by Planview.
+
+## VP of Engineering
+
+**Changepoint** Apr 2015 – Jan 2021
 
 In April 2015, Changepoint acquired barometerIT. My efforts were instrumental in getting barometerIT recognized in markets closely aligned with Changepoint's own PPM space. Changepoint's portfolio now includes three major products: Changepoint PSA, Daptiv PPM, and barometerIT EAM.
 
