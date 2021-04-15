@@ -17,7 +17,7 @@ For more about me, see:
 
 ## VP of Engineering
 
-**PLanview** Jan 2021 - present
+**Planview** Jan 2021 - present
 
 In January 2021, Changepoint was acquired by Planview.
 
