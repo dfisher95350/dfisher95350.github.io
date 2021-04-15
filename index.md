@@ -4,9 +4,9 @@ layout: default
 
 # Welcome
 
-I'm a professional software developer of many years experience.
+I'm a professional software leader, manager, and developer of many years experience.
 
-I've held leadership roles in **four Independent Software Vendors (ISV)**, including **two greenfield startups**.
+I've held leadership roles in **five Independent Software Vendors (ISV)**, including **two greenfield startups**.
 
 I've shepherded a greenfield ISV startup to **acquisition** and subsequent **growth**.
 
