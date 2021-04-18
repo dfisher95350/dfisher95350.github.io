@@ -18,6 +18,8 @@ I've gained diverse experience as a technical consultant for **three consulting 
 - [Education](./education)
 - [Repositories](./repositories)
 
+Download a PDF version of this material here: [PDF](./export/Douglas%20Fisher.pdf).
+
 ## Contact
 
 Douglas Fisher

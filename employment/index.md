@@ -4,7 +4,7 @@ layout: default
 
 # Employment
 
-A detailed summary of my employment history as a sotware engineer, technical architect, product manager, and chief technologist.
+A detailed summary of my employment history as a software engineer, technical architect, product manager, and chief technologist.
 
 For more about me, see:
 
@@ -60,7 +60,7 @@ Set the technological vision and roadmap for the company's products. Provided te
 
 **Perficient** Aug 2006 – Jul 2008
 
-Recommended, designed and developed enterprise system solutions in a number of business domains, including insurance, telecommunications, agricultural products and hospitality. Designed, implemented and documented cutting edge proof-of-concept solutions. Performed leadership roles on Java EE software development projects. Specified architectural and procedural standards for Java EE application development. Designed Service Oriented Architecture (SOA) solutions (especially ESB solutions). Performed hardware platform and capacity planning assessments. Performed assessments and recommend best practices. Performed trouble diagnosis on IBM and BEA platform systems. Led and mentored development teams. Planned projects and schedule resources.
+Recommended, designed and developed enterprise system solutions in a number of business domains, including insurance, telecommunications, agricultural products and hospitality. Designed, implemented and documented cutting edge proof-of-concept solutions. Performed leadership roles on Java EE software development projects. Specified architectural and procedural standards for Java EE application development. Designed Service Oriented Architecture (SOA) solutions (especially ESB solutions). Performed hardware platform and capacity planning assessments. Performed assessments and recommended best practices. Performed trouble diagnosis on IBM and BEA platform systems. Led and mentored development teams. Planned projects and schedule resources.
 
 ## Technical Architect
 
