@@ -1,10 +1,12 @@
 *.gem
 .bundle
+_site
 .sass-cache
-_site/
+.jekyll-cache
+.jekyll-metadata
+vendor
 Gemfile.lock
 **/.ruby-version
-vendor
 
 # IntelliJ Idea
 .idea/

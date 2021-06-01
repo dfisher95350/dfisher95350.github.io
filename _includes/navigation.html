@@ -1,8 +1,8 @@
 <nav>
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-    <a href="/employment">Employment</a>
-    <a href="/experience">Experience</a>
-    <a href="/education">Education</a>
-    <a href="/repositories">Repositories</a>
+    <a href="/" {% if page.url=="/" %}style="color: white;" {% endif %}>Home</a>
+    <a href="/about/" {% if page.url=="/about/" %}style="color: white;" {% endif %}>About</a>
+    <a href="/employment/" {% if page.url=="/employment/" %}style="color: white;" {% endif %}>Employment</a>
+    <a href="/experience/" {% if page.url=="/experience/" %}style="color: white;" {% endif %}>Experience</a>
+    <a href="/education/" {% if page.url=="/education/" %}style="color: white;" {% endif %}>Education</a>
+    <a href="/repositories/" {% if page.url=="/repositories/" %}style="color: white;" {% endif %}>Repositories</a>
 </nav>
