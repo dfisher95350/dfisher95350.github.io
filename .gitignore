@@ -4,6 +4,7 @@
 _site/
 Gemfile.lock
 **/.ruby-version
+vendor
 
 # IntelliJ Idea
 .idea/
