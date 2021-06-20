@@ -3,6 +3,9 @@
 ---
 @charset "utf-8";
 
-@import "jekyll-theme-slate";
+@import "meyerweb-reset";
+@import "rouge-github";
 @import "layout";
 @import "typography";
+@import "full-width";
+@import "small-device";
