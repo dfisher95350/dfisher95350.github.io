@@ -6,15 +6,6 @@ layout: default
 
 A detailed summary of my employment history as a software engineer, technical architect, product manager, and chief technologist.
 
-For more about me, see:
-
-- [About Me](../about)
-- [Experience](../experience)
-- [Education](../education)
-- [Repositories](../repositories)
-
-(Or return to the [top](../index.md) page.)
-
 ## VP of Engineering
 
 **Planview** Jan 2021 - present

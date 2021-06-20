@@ -6,15 +6,6 @@ layout: default
 
 Here you'll find an overview of my professional technical experience.
 
-For more, see:
-
-- [About Me](../about)
-- [Employment](../employment)
-- [Education](../education)
-- [Repositories](../repositories)
-
-(Or return to the [top](../index.md) page.)
-
 ## General
 
 I've been designing, recommending, and making technical architecture decisions for more than twenty years. My chief expertise is in designing and building **Software-as-a-Service** (SaaS) applications, but my consulting experience includes even hardware infrastructure.

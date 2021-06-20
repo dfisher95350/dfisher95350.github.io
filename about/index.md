@@ -12,15 +12,6 @@ I have more than 20 years of software development experience in diverse business
 
 My comfort-zone is deep and broad: low-level code to high-level design. I lead teams and mentor developers. I have strong abilities to document, prioritize, and organize, as well as excellent communication skills.
 
-For more detail, see:
-
-- [Experience](../experience)
-- [Employment](../employment)
-- [Education](../education)
-- [Repositories](../repositories)
-
-(Or return to the [top](../index.md) page.)
-
 ## Personal Trivia
 
 Out of college, I played key roles in two Minnesota institutions.

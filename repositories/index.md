@@ -6,15 +6,6 @@ layout: default
 
 My GitHub repositories are private. This page is a public overview, in order to give some idea of my interests and experience.
 
-For more, see:
-
-- [About Me](../about)
-- [Experience](../experience)  
-- [Employment](../employment)
-- [Education](../education)
-
-(Or return to the [top](../index.md) page.)
-
 ## General
 
 - **notebook** - A private repository of documents and notes on general topics in technology: concepts, patterns, providers, resources, standards, and tools.
