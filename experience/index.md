@@ -70,6 +70,8 @@ My professional experience with Java frameworks includes:
 - Spring AOP
 - Spring Batch
 - Spring Boot
+- Spring Cloud
+- Spring Cloud Data Flow
 - Spring Data  
 - Spring Framework
 - Spring Integration
