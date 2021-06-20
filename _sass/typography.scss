@@ -1,7 +1,12 @@
+/* https://www.w3schools.com/cssref/css_websafe_fonts.asp */
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/font-family */
+/* *https://www.w3.org/Style/Examples/007/fonts.en.html */
 body {
-  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
-  color: #000000;
-  background: #999999;
-
-  a { color: #005cc5; }
+  box-sizing: border-box;
+  color:#373737;
+  background: #212121;
+  font-size: 16px;
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
 }
