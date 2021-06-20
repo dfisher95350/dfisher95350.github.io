@@ -1,8 +1,11 @@
 <nav>
-    <a href="/" {% if page.url=="/" %}style="color: white;" {% endif %}>Home</a>
-    <a href="/about/" {% if page.url=="/about/" %}style="color: white;" {% endif %}>About</a>
-    <a href="/employment/" {% if page.url=="/employment/" %}style="color: white;" {% endif %}>Employment</a>
-    <a href="/experience/" {% if page.url=="/experience/" %}style="color: white;" {% endif %}>Experience</a>
-    <a href="/education/" {% if page.url=="/education/" %}style="color: white;" {% endif %}>Education</a>
-    <a href="/repositories/" {% if page.url=="/repositories/" %}style="color: white;" {% endif %}>Repositories</a>
+  <ul class="nav_list">
+    <li class="nav_item"><a href="/" {% if page.url=="/" %}style="background-color: #0F79D0;color: white;" {% endif %}>Home</a></li>
+    <li class="nav_item"><a href="/about/" {% if page.url=="/about/" %}style="background-color: #0F79D0;color: white;" {% endif %}>About</a></li>
+    <li class="nav_item"><a href="/employment/" {% if page.url=="/employment/" %}style="background-color: #0F79D0;color: white;" {% endif %}>Employment</a></li>
+    <li class="nav_item"><a href="/experience/" {% if page.url=="/experience/" %}style="background-color: #0F79D0;color: white;" {% endif %}>Experience</a></li>
+    <li class="nav_item"><a href="/education/" {% if page.url=="/education/" %}style="background-color: #0F79D0;color: white;" {% endif %}>Education</a></li>
+    <li class="nav_item"><a href="/repositories/" {% if page.url=="/repositories/" %}style="background-color: #0F79D0;color: white;" {% endif %}>Repositories</a></li>
+    <li style="float:right"><a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a></li>
+  </ul>
 </nav>
