@@ -13,8 +13,8 @@ I've shepherded a greenfield ISV startup to **acquisition** and subsequent **gro
 I've gained diverse experience as a technical consultant for **three consulting groups**.
 
 - [About Me](./about)
-- [Experience](./experience)
 - [Employment](./employment)
+- [Experience](./experience)
 - [Education](./education)
 - [Repositories](./repositories)
 
