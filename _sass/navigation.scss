@@ -36,3 +36,8 @@ nav {
   background-color: #111;
   text-decoration: none;
 }
+
+@media screen and (max-width: 600px) {
+  ul.nav_list li.right,
+  ul.nav_list li {float: none;}
+}
