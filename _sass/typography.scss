@@ -50,6 +50,27 @@ p {
   margin: 10px 0 15px 0;
 }
 
+div {
+
+}
+
+.text_callout {
+  //background-color: #ededed;
+  background-color: #424242;
+  color: #ffffff;
+  //color:#696969;
+  //color: #008851;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+.text_callout b {
+  //color: #008851;
+  color: #00B36B;
+}
+
 footer p {
   color: #f2f2f2;
 }
