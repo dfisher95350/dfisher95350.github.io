@@ -16,7 +16,7 @@ In January 2021, Changepoint was acquired by Planview.
 
 **Changepoint** Apr 2015 – Jan 2021
 
-In April 2015, Changepoint acquired barometerIT. My efforts were instrumental in getting barometerIT recognized in markets closely aligned with Changepoint's own PPM space. Changepoint's portfolio now includes three major products: Changepoint PSA, Daptiv PPM, and barometerIT EAM.
+In April 2015, Changepoint acquired barometerIT. My efforts were instrumental in getting barometerIT recognized in markets closely aligned with Changepoint's own PPM space. Changepoint's portfolio now includes three major products: Changepoint PSA, Daptiv PPM, and barometerIT EAM. During this period the barometerIT product was marketed under two names: Changepoint EAM and Changepoint SPM.
 
 My role with Changepoint has been to continue the development, operation, and support of barometerIT. I've continued to guide and manage most aspects of the product. Most importantly, I leveraged customer relationships into designs for product enhancement, and then realized those designs in product engineering (and finally, guided them to production and provided ongoing support). Chief roles have continued to include product manager and chief technologist.
 
