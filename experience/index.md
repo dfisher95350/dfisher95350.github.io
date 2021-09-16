@@ -97,6 +97,7 @@ My professional experience with **JavaScript** dates back to LiveWire in the Net
 My professional experience with JavaScript frameworks includes:
 
 - AngularJS
+- Apollo GraphQL
 - Browserify
 - Cytoscape
 - D3
@@ -111,7 +112,9 @@ My professional experience with JavaScript frameworks includes:
 - npm
 - React
 - Redux
+- Storybook
 - webpack
+- Yarn
 
 In the deeper dustbin of history, I worked with:
 
@@ -126,6 +129,10 @@ My professional experience with data stores includes:
 - Neo4j
 - Oracle  
 - Solr
+
+And database management:
+
+- Flyway
 
 In the deeper dustbin of history, I worked with:
 
