@@ -55,6 +55,7 @@ My professional experience with Java frameworks includes:
 - ActiveMQ
 - Ant
 - Drools
+- Gradle
 - Grails  
 - Hibernate
 - Infinispan
