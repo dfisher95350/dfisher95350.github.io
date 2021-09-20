@@ -134,6 +134,7 @@ My professional experience with data stores includes:
 And database management:
 
 - Flyway
+- Liquibase
 
 In the deeper dustbin of history, I worked with:
 
