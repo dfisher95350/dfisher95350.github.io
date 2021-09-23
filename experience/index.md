@@ -66,7 +66,9 @@ My professional experience with Java frameworks includes:
 - Maven
 - Metrics  
 - Mule
-- Quartz 
+- Netflix Domain Graph Service (DGS)
+- Quartz
+- Reactor
 - Spock
 - Spring AOP
 - Spring Batch
