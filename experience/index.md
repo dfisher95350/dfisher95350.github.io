@@ -105,7 +105,9 @@ My professional experience with JavaScript frameworks includes:
 - Cytoscape
 - D3
 - gulp
+- i18next
 - Jasmine
+- Jest
 - jQuery
 - Karma
 - Lodash
