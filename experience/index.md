@@ -111,6 +111,7 @@ My professional experience with JavaScript frameworks includes:
 - jQuery
 - Karma
 - Lodash
+- Material-UI
 - Mocha
 - Moment  
 - Node.js
