@@ -27,7 +27,7 @@ My GitHub repositories are private. This page is a public overview, in order to 
 - **js-mui** - My own re-usable React + Material-UI components.
 - **js-mui-auth** - My own re-usable React + Material-UI components, particularly for authentication flows (Basic, OAuth2, OpenID, etc).
 - **js-react** - My own re-usable pure React components.
-- **python** - A private repository for Python study.
+- [python](https://dfisher95350.github.io/python/) - A private repository for Python study.
 - **ruby** - A private repository for Ruby study.
 - **rust** - A private repository for Rust study.
 - **unity** - A private repository of Unity tutorials.
