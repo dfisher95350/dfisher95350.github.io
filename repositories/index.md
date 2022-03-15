@@ -28,15 +28,16 @@ My GitHub repositories are private. This page is a public overview, in order to 
 - **js-mui-auth** - My own re-usable React + Material-UI components, particularly for authentication flows (Basic, OAuth2, OpenID, etc).
 - **js-react** - My own re-usable pure React components.
 - [python](https://dfisher95350.github.io/python/) - A private repository for Python study.
-- **ruby** - A private repository for Ruby study.
-- **rust** - A private repository for Rust study.
+- [python-fork](https://dfisher95350.github.io/python-fork/) - Another private repository for Python study.
+- [ruby](https://dfisher95350.github.io/ruby/) - A private repository for Ruby study.
+- [rust](https://dfisher95350.github.io/rust/) - A private repository for Rust study.
 - **unity** - A private repository of Unity tutorials.
 
 ## DevOps
 
 - **docker** - A private repository containing configurations for test and study.
 - **gradle** - A private repository used to bootstrap complex, feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
-- **kubernetes** - A private repository containing configurations for test and study.
-- **maven** - A private repository used to bootstrap complex, feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
-- **shell** - Commonly used command line tools, documentation, scripts. Mostly bash.
+- [kubernetes](https://dfisher95350.github.io/kubernetes/) - A private repository containing configurations for test and study.
+- [maven](https://dfisher95350.github.io/maven/) - A private repository used to bootstrap complex, feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
+- [shell](https://dfisher95350.github.io/shell/) - Commonly used command line tools, documentation, scripts. Mostly bash.
 - **vagrant** - This private repository contains a small collection of Vagrant box configurations for personal development environments. Portable across platforms (macOS, Windows, Linux). Boxes are versioned and stored in AWS S3.
