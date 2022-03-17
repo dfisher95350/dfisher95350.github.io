@@ -10,24 +10,21 @@ My GitHub repositories are private. This page is a public overview, in order to 
 
 - **notebook** - A private repository of documents and notes on general topics in technology: concepts, patterns, providers, resources, standards, and tools.
 
-## Dev
+## Languages
+
+And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 
 - **cpp** - A private repository for C++ study.
 - cpp-fork
 - **dotnet** - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
 - **go** - A private repository for Go study.
-- gradle
 - **java** - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
 - java-fork
 - **javascript** - This private repository includes projects and exercises that leverage languages and frameworks like **TypeScript** and **React**.
-- **js-mui** - My own re-usable React + Material-UI components.
-- **js-mui-auth** - My own re-usable React + Material-UI components, particularly for authentication flows (Basic, OAuth2, OpenID, etc).
-- **js-react** - My own re-usable pure React components.
 - [python](https://dfisher95350.github.io/python/) - A private repository for Python study.
 - [python-fork](https://dfisher95350.github.io/python-fork/) - Another private repository for Python study.
 - [ruby](https://dfisher95350.github.io/ruby/) - A private repository for Ruby study.
 - [rust](https://dfisher95350.github.io/rust/) - A private repository for Rust study.
-- **unity** - A private repository of Unity tutorials.
 
 ## Data
 
@@ -49,3 +46,12 @@ My GitHub repositories are private. This page is a public overview, in order to 
 - [maven](https://dfisher95350.github.io/maven/) - A private repository used to bootstrap complex, feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
 - [shell](https://dfisher95350.github.io/shell/) - Commonly used command line tools, documentation, scripts. Mostly bash.
 - **vagrant** - This private repository contains a small collection of Vagrant box configurations for personal development environments. Portable across platforms (macOS, Windows, Linux). Boxes are versioned and stored in AWS S3.
+
+## User Interface
+
+- gh-pages-react - A React proof-of-concept hosted on GitHub Pages.
+- gh-pages-svelte - A Svelte proof-of-concept hosted on GitHub Pages.
+- gh-pages-vue - A Vue proof-of-concept hosted on GitHub Pages.
+- **js-mui** - My own re-usable React + Material-UI components.
+- **js-mui-auth** - My own re-usable React + Material-UI components, particularly for authentication flows (Basic, OAuth2, OpenID, etc).
+- **js-react** - My own re-usable pure React components.
