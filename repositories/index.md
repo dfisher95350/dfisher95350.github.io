@@ -38,7 +38,7 @@ My GitHub repositories are private. This page is a public overview, in order to 
 - [data-ml](https://dfisher95350.github.io/data-ml/) - A private repository for the study of machine learning (DJL, Keras, PyTorch, TensorFlow, etc.).
 - [data-nlp](https://dfisher95350.github.io/data-nlp/) - A private repository for the study of natural language processing (NLTK, etc.).
 - [data-sci](https://dfisher95350.github.io/data-sci/) - A private repository for the study of data science (NumPy, Pandas, Spark, etc.).
-- [data-scrape](https://dfisher95350.github.io/data-scrape/) - A private repository for the study of data scraping (BeautifulSoup, etc.).
+- data-scrape - A private repository for the study of data scraping (BeautifulSoup, etc.).
 - json - A private repository for the study of JSON frameworks (GraphQL, etc.).
 
 ## DevOps
