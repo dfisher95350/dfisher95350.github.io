@@ -14,7 +14,7 @@ My GitHub repositories are private. This page is a public overview, in order to 
 
 And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 
-- **cpp** - A private repository for C++ study.
+- [cpp](https://dfisher95350.github.io/cpp/) - A private repository for C++ study.
 - cpp-fork
 - **dotnet** - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
 - **go** - A private repository for Go study.
