@@ -1,3 +1,7 @@
+---
+layout: default-b
+---
+
 # About Me
 
 I've worn many hats in and around software engineering. Throughout, I've always kept one foot in the codebase, even when
