@@ -16,7 +16,7 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 
 - [cpp](https://dfisher95350.github.io/cpp/) - A private repository for C++ study.
 - [cpp-fork](https://dfisher95350.github.io/cpp-fork/) - Another private repository for C++ study.
-- **dotnet** - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
+- [dotnet](https://dfisher95350.github.io/dotnet/) - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
 - **go** - A private repository for Go study.
 - **java** - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
 - java-fork
@@ -35,12 +35,12 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 - [data-ml](https://dfisher95350.github.io/data-ml/) - A private repository for the study of machine learning (DJL, Keras, PyTorch, TensorFlow, etc.).
 - [data-nlp](https://dfisher95350.github.io/data-nlp/) - A private repository for the study of natural language processing (NLTK, etc.).
 - [data-sci](https://dfisher95350.github.io/data-sci/) - A private repository for the study of data science (NumPy, Pandas, Spark, etc.).
-- data-scrape - A private repository for the study of data scraping (BeautifulSoup, etc.).
+- [data-scrape](https://dfisher95350.github.io/data-scrape/) - A private repository for the study of data scraping (BeautifulSoup, etc.).
 - json - A private repository for the study of JSON frameworks (GraphQL, etc.).
 
 ## DevOps
 
-- **docker** - A private repository containing configurations for test and study.
+- [docker](https://dfisher95350.github.io/docker/) - A private repository containing configurations for test and study.
 - **gradle** - A private repository used to bootstrap complex, feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
 - [kubernetes](https://dfisher95350.github.io/kubernetes/) - A private repository containing configurations for test and study.
 - [maven](https://dfisher95350.github.io/maven/) - A private repository used to bootstrap complex, feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
