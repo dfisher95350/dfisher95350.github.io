@@ -20,7 +20,7 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 - [go](https://dfisher95350.github.io/go/) - A private repository for Go study.
 - [java](https://dfisher95350.github.io/java/) - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
 - [java-fork](https://dfisher95350.github.io/java-fork/) - Another private repository for JVM study.
-- **javascript** - This private repository includes projects and exercises that leverage languages and frameworks like **TypeScript** and **React**.
+- [javascript](https://dfisher95350.github.io/javascript/) - This private repository includes projects and exercises that leverage languages and frameworks like **TypeScript** and **React**.
 - [python](https://dfisher95350.github.io/python/) - A private repository for Python study.
 - [python-fork](https://dfisher95350.github.io/python-fork/) - Another private repository for Python study.
 - [ruby](https://dfisher95350.github.io/ruby/) - A private repository for Ruby study.
@@ -36,7 +36,7 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 - [data-nlp](https://dfisher95350.github.io/data-nlp/) - A private repository for the study of natural language processing (NLTK, etc.).
 - [data-sci](https://dfisher95350.github.io/data-sci/) - A private repository for the study of data science (NumPy, Pandas, Spark, etc.).
 - [data-scrape](https://dfisher95350.github.io/data-scrape/) - A private repository for the study of data scraping (BeautifulSoup, etc.).
-- json - A private repository for the study of JSON frameworks (GraphQL, etc.).
+- [json](https://dfisher95350.github.io/json/) - A private repository for the study of JSON frameworks (GraphQL, etc.).
 
 ## DevOps
 
@@ -45,13 +45,13 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 - [kubernetes](https://dfisher95350.github.io/kubernetes/) - A private repository containing configurations for test and study.
 - [maven](https://dfisher95350.github.io/maven/) - A private repository used to bootstrap complex, feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
 - [shell](https://dfisher95350.github.io/shell/) - Commonly used command line tools, documentation, scripts. Mostly bash.
-- **vagrant** - This private repository contains a small collection of Vagrant box configurations for personal development environments. Portable across platforms (macOS, Windows, Linux). Boxes are versioned and stored in AWS S3.
+- vagrant - This private repository contains a small collection of Vagrant box configurations for personal development environments. Portable across platforms (macOS, Windows, Linux). Boxes are versioned and stored in AWS S3.
 
 ## User Interface
 
 - gh-pages-react - A React proof-of-concept hosted on GitHub Pages.
 - gh-pages-svelte - A Svelte proof-of-concept hosted on GitHub Pages.
 - gh-pages-vue - A Vue proof-of-concept hosted on GitHub Pages.
-- **js-mui** - My own re-usable React + Material-UI components.
-- **js-mui-auth** - My own re-usable React + Material-UI components, particularly for authentication flows (Basic, OAuth2, OpenID, etc).
-- **js-react** - My own re-usable pure React components.
+- [js-mui](https://dfisher95350.github.io/js-mui/) - My own re-usable React + Material-UI components.
+- [js-mui-auth](https://dfisher95350.github.io/js-mui-auth/) - My own re-usable React + Material-UI components, particularly for authentication flows (Basic, OAuth2, OpenID, etc).
+- [js-react](https://dfisher95350.github.io/js-react/) - My own re-usable pure React components.
