@@ -17,7 +17,7 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 - [cpp](https://dfisher95350.github.io/cpp/) - A private repository for C++ study.
 - [cpp-fork](https://dfisher95350.github.io/cpp-fork/) - Another private repository for C++ study.
 - [dotnet](https://dfisher95350.github.io/dotnet/) - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
-- **go** - A private repository for Go study.
+- [go](https://dfisher95350.github.io/go/) - A private repository for Go study.
 - **java** - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
 - java-fork
 - **javascript** - This private repository includes projects and exercises that leverage languages and frameworks like **TypeScript** and **React**.
@@ -41,7 +41,7 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 ## DevOps
 
 - [docker](https://dfisher95350.github.io/docker/) - A private repository containing configurations for test and study.
-- **gradle** - A private repository used to bootstrap complex, feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
+- [gradle](https://dfisher95350.github.io/gradle/) - A private repository used to bootstrap complex, feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
 - [kubernetes](https://dfisher95350.github.io/kubernetes/) - A private repository containing configurations for test and study.
 - [maven](https://dfisher95350.github.io/maven/) - A private repository used to bootstrap complex, feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
 - [shell](https://dfisher95350.github.io/shell/) - Commonly used command line tools, documentation, scripts. Mostly bash.
