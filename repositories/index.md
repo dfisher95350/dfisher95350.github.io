@@ -15,7 +15,7 @@ My GitHub repositories are private. This page is a public overview, in order to 
 And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 
 - [cpp](https://dfisher95350.github.io/cpp/) - A private repository for C++ study.
-- cpp-fork
+- [cpp-fork](https://dfisher95350.github.io/cpp-fork/) - Another private repository for C++ study.
 - **dotnet** - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
 - **go** - A private repository for Go study.
 - **java** - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
@@ -29,8 +29,8 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 ## Data
 
 - [blockchain](https://dfisher95350.github.io/blockchain/) - A private repository for studying blockchain technologies.
-- **data** - A private repository for data science, data stores (**MySQL**, **Neo4j**, etc.), and data structures (**JSON**, **GraphQL**, etc.).
-- data-flow - A private repository for the study of data flow frameworks (Camel, Kafka, Spring Cloud Data Flow, etc.).
+- [data](https://dfisher95350.github.io/data/) - A private repository for data science, data stores (**MySQL**, **Neo4j**, etc.), and data structures (**JSON**, **GraphQL**, etc.).
+- [data-flow](https://dfisher95350.github.io/data-flow/) - A private repository for the study of data flow frameworks (Camel, Kafka, Spring Cloud Data Flow, etc.).
 - [data-graph](https://dfisher95350.github.io/data-graph/) - A private repository for the study of graph databases (Neo4j, TinkerPop, etc.).
 - [data-ml](https://dfisher95350.github.io/data-ml/) - A private repository for the study of machine learning (DJL, Keras, PyTorch, TensorFlow, etc.).
 - [data-nlp](https://dfisher95350.github.io/data-nlp/) - A private repository for the study of natural language processing (NLTK, etc.).
