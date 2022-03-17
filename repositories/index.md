@@ -45,6 +45,7 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 - [kubernetes](https://dfisher95350.github.io/kubernetes/) - A private repository containing configurations for test and study.
 - [maven](https://dfisher95350.github.io/maven/) - A private repository used to bootstrap complex, feature-rich, polyglot projects for the Java Virtual Machine (JVM). Lays a foundation that includes a whole lotta **Spring** (including **Spring Boot**).
 - [shell](https://dfisher95350.github.io/shell/) - Commonly used command line tools, documentation, scripts. Mostly bash.
+- [test](https://dfisher95350.github.io/test/) - A private repository for unit testing patterns: Cucumber, Jest, Testing Library, JUnit, etc.
 - vagrant - This private repository contains a small collection of Vagrant box configurations for personal development environments. Portable across platforms (macOS, Windows, Linux). Boxes are versioned and stored in AWS S3.
 
 ## User Interface
