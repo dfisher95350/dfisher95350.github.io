@@ -18,7 +18,7 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 - [cpp-fork](https://dfisher95350.github.io/cpp-fork/) - Another private repository for C++ study.
 - [dotnet](https://dfisher95350.github.io/dotnet/) - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
 - [go](https://dfisher95350.github.io/go/) - A private repository for Go study.
-- **java** - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
+- [java](https://dfisher95350.github.io/java/) - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
 - java-fork
 - **javascript** - This private repository includes projects and exercises that leverage languages and frameworks like **TypeScript** and **React**.
 - [python](https://dfisher95350.github.io/python/) - A private repository for Python study.
