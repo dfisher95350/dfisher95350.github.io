@@ -1,3 +1,7 @@
+---
+layout: default-b
+---
+
 # TLDR
 
 My skills, experience, and employment history in a nutshell.
