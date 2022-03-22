@@ -14,10 +14,13 @@ My skills, experience, employment, and education in a nutshell.
 - Keeping it real. Use pragmatic, proven technical solutions for real-world problems. Make smart build v buy decisions.
 - Making it personal.
 - Hands-on
+- Mentoring.
 
 ## Experience
 
 ### Management
+
+All the things that go into managing product development at an Idependent Software Vendor (ISV).
 
 - Agile. Although the [Agile](https://en.wikipedia.org/wiki/Agile_software_development) Manifesto was first published in
   2001, it was an expression of the development climate of the late 90s. As such, the Agile methodology has been
@@ -29,19 +32,27 @@ My skills, experience, employment, and education in a nutshell.
   [OWASP](https://en.wikipedia.org/wiki/OWASP),
   [OAuth](https://en.wikipedia.org/wiki/OAuth),
   [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language).
-- Continuous Deployment. Much of my "modern" experience in this area comes from more than a decade in the Amazon Web
-  Services (AWS) ecosystem.
-- Continuous Integration. I have a long history of designing and managing solutions and procedures around various
-  popular unit testing, Quality Assurance (QA) and continuous integration systems, most recently JUnit, Jest, and GitHub
-  Actions.
+- Continuous Deployment. More than a decade of authoring and managing deployments in the Amazon Web Services (AWS)
+  ecosystem.
+- Continuous Integration. A long history of designing, implementing, and managing technical solutions and procedures
+  around various popular unit testing, Quality Assurance (QA) and continuous integration systems, most recently JUnit,
+  Jest, and GitHub Actions.
 - Planning. As already mentioned, I am very familiar with Agile planning tools and techniques. My experience in
-  Enterprise Architecture gives me an additional layer of experience, in frameworks such as BIZBOK, COBIT, ITIL, ITSM,
-  and PMBOK.
-- Product Management.
-- Project Management. and functional Quality Assurance (QA) Atlassian suite (including Jira), TestRail, etc.
-- Quality Assurance (QA).
-- Version Control. I have a long history of designing and managing solutions and procedures around various popular
-  version control and artifact management systems, including of course Git and GitHub.
+  Enterprise Architecture gives me an additional layer of experience, in frameworks such as 
+[BIZBOK](https://en.wikipedia.org/wiki/Business_architecture),
+[COBIT](https://en.wikipedia.org/wiki/COBIT),
+[ITIL](https://en.wikipedia.org/wiki/ITIL),
+[ITSM](https://en.wikipedia.org/wiki/IT_service_management),
+and [PMBOK](https://en.wikipedia.org/wiki/Project_Management_Body_of_Knowledge).
+- Product Management. Experience implementing the [Pragmatic Marketing](https://www.pragmaticinstitute.com/) product
+  development framework.
+- Project Management. A long history of documenting, prioritizing, and managing, with tools such as Atlassian suite (
+  Jira), etc.
+- Quality Assurance (QA). A long history of designing, implementing, and managing technical solutions and procedures
+  around various popular unit testing and Quality Assurance (QA) frameworks, for example JUnit, Jest, Selenium,
+  TestRail.
+- Version Control. A long history of designing and managing solutions and procedures around various popular version
+  control and artifact management systems, including of course Git and GitHub.
 
 ### Languages
 
