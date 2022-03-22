@@ -8,9 +8,12 @@ Here you'll find an overview of my professional technical experience.
 
 ## General
 
-I've been designing, recommending, and making technical architecture decisions for more than twenty years. My chief expertise is in designing and building **Software-as-a-Service** (SaaS) applications, but my consulting experience includes even hardware infrastructure.
+I've been designing, recommending, and making technical architecture decisions for more than twenty years. My chief
+expertise is in designing and building **Software-as-a-Service** (SaaS) applications, but my consulting experience
+includes even hardware infrastructure.
 
-Furthermore, my tenure guiding the development of an **Enterprise Architecture** product has given me special insight into that practice and body of knowledge.
+Furthermore, my tenure guiding the development of an **Enterprise Architecture** product has given me special insight
+into that practice and body of knowledge.
 
 My professional experience with general standards and specifications includes:
 
@@ -28,7 +31,9 @@ My professional experience with general standards and specifications includes:
 
 ## Dev
 
-My professional experience revolves chiefly around the ecosystems of the **Java Virtual Machine (JVM)** and **JavaScript**. Happily, these ecosystems are _extremely rich_ and still evolving. My work has kept me hands-on with the most relevant technologies in both spaces from 1996 to the present.
+My professional experience revolves chiefly around the ecosystems of the **Java Virtual Machine (JVM)** and **
+JavaScript**. Happily, these ecosystems are _extremely rich_ and still evolving. My work has kept me hands-on with the
+most relevant technologies in both spaces from 1996 to the present.
 
 ### Java
 
@@ -47,7 +52,7 @@ My professional experience implementing solutions based on JVM-based specificati
 - JDBC
 - JMS
 - JMX
-- JPA  
+- JPA
 - JTA
 
 My professional experience with Java frameworks includes:
@@ -56,15 +61,15 @@ My professional experience with Java frameworks includes:
 - Ant
 - Drools
 - Gradle
-- Grails  
+- Grails
 - Hibernate
 - Infinispan
 - Joda
 - Jolokia
-- JUnit  
-- Logback  
+- JUnit
+- Logback
 - Maven
-- Metrics  
+- Metrics
 - Mule
 - Netflix Domain Graph Service (DGS)
 - Quartz
@@ -75,11 +80,11 @@ My professional experience with Java frameworks includes:
 - Spring Boot
 - Spring Cloud
 - Spring Cloud Data Flow
-- Spring Data  
+- Spring Data
 - Spring Framework
 - Spring Integration
 - Spring Security
-- Spring Test  
+- Spring Test
 - Tomcat
 - Wicket
 - ZooKeeper
@@ -113,7 +118,7 @@ My professional experience with JavaScript frameworks includes:
 - Lodash
 - Material-UI
 - Mocha
-- Moment  
+- Moment
 - Node.js
 - npm
 - React
@@ -133,7 +138,7 @@ My professional experience with data stores includes:
 
 - MySQL
 - Neo4j
-- Oracle  
+- Oracle
 - Solr
 
 And database management:
@@ -148,7 +153,9 @@ In the deeper dustbin of history, I worked with:
 
 ## DevOps
 
-I have long professional experience with **Amazon Web Services (AWS)**, including **Chef** in OpsWorks. My chief interest in this area revolves around what these technologies mean for packaging and delivering components in repeatable, standards-based fashion.
+I have long professional experience with **Amazon Web Services (AWS)**, including **Chef** in OpsWorks. My chief
+interest in this area revolves around what these technologies mean for packaging and delivering components in
+repeatable, standards-based fashion.
 
 My professional experience with DevOps tools includes:
 
