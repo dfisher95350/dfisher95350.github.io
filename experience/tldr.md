@@ -54,6 +54,9 @@ All the things that go into managing product development at an [Independent Soft
 
 ### Languages
 
+The heart of my background is object-oriented, aspect-oriented, and functional programming (and designing complex
+systems that leverage each), from the late 90s and continuing through the present.
+
 - Java, since version 1. Name any major language or framework that runs on the Java Virtual Machine, and I've probably
   worked professionally with it. For example, Kotlin and Spring.
 - JavaScript, since before it was called JavaScript. I've worked with most of the frontend frameworks, and some of the
@@ -62,6 +65,9 @@ All the things that go into managing product development at an [Independent Soft
 - I dabble in C++, Go, and Rust. Way back I did Perl professionally.
 
 ### Data
+
+The catch-phrase, "data-driven", has never been more relevant as the present. It's been a staple of my career, and the
+aspect of software product development I care most about.
 
 - SQL-compliant databases, since 1998. MySQL, PostgreSQL, Oracle, Microsoft SQL Server, IBM Db2, IBM Informix, etc.
 - [Document stores](https://en.wikipedia.org/wiki/Document-oriented_database) (particularly
