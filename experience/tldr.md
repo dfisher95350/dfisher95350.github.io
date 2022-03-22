@@ -19,22 +19,22 @@ My skills, experience, employment, and education in a nutshell.
 
 ### Management
 
-- **Agile**. Although the Agile Manifesto was first published in 2001, it was an expression of the development climate
+- Agile. Although the Agile Manifesto was first published in 2001, it was an expression of the development climate
   of the late 90s. As such, the Agile methodology has been standard operating procedure throughout my career.
-- **Project Management**. and functional Quality Assurance (QA) Atlassian suite (including Jira), TestRail, etc.
-- **Version Control**. I have a long history of designing and managing solutions and procedures around various popular
-  version control and artifact management systems, including of course Git and GitHub.
-- **Continuous Integration**. I have a long history of designing and managing solutions and procedures around various
+- Compliance ISO 27001, OWASP, OAuth, SAML.
+- Continuous Deployment. Much of my "modern" experience in this area comes from more than a decade in the Amazon Web
+  Services (AWS) ecosystem.
+- Continuous Integration. I have a long history of designing and managing solutions and procedures around various
   popular unit testing, Quality Assurance (QA) and continuous integration systems, most recently JUnit, Jest, and GitHub
   Actions.
-- Continuous deployment. Much of my "modern" experience in this area comes from more than a decade in the Amazon Web
-  Services (AWS) ecosystem.
-- Compliance ISO 27001, OWASP, OAuth, SAML
-- design I am familiar with both the TOGAF and UML frameworks.
-- planning. As already mentioned, I am very familiar with Agile planning tools and techniques. My experience in
+- Planning. As already mentioned, I am very familiar with Agile planning tools and techniques. My experience in
   Enterprise Architecture gives me an additional layer of experience, in frameworks such as BIZBOK, COBIT, ITIL, ITSM,
   and PMBOK.
-- Product management
+- Product Management.
+- Project Management. and functional Quality Assurance (QA) Atlassian suite (including Jira), TestRail, etc.
+- Quality Assurance (QA).
+- Version Control. I have a long history of designing and managing solutions and procedures around various popular
+  version control and artifact management systems, including of course Git and GitHub.
 
 ### Languages
 
@@ -59,7 +59,7 @@ My skills, experience, employment, and education in a nutshell.
 
 ### Architecture
 
-...
+- design I am familiar with both the TOGAF and UML frameworks.
 
 ### Operating Systems
 
