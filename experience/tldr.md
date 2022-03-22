@@ -22,9 +22,9 @@ My skills, experience, employment, and education in a nutshell.
 - **Agile**. Although the Agile Manifesto was first published in 2001, it was an expression of the development climate
   of the late 90s. As such, the Agile methodology has been standard operating procedure throughout my career.
 - **Project Management**. and functional Quality Assurance (QA) Atlassian suite (including Jira), TestRail, etc.
-- Version control. I have a long history of designing and managing solutions and procedures around various popular
+- **Version Control**. I have a long history of designing and managing solutions and procedures around various popular
   version control and artifact management systems, including of course Git and GitHub.
-- Continuous integration. I have a long history of designing and managing solutions and procedures around various
+- **Continuous Integration**. I have a long history of designing and managing solutions and procedures around various
   popular unit testing, Quality Assurance (QA) and continuous integration systems, most recently JUnit, Jest, and GitHub
   Actions.
 - Continuous deployment. Much of my "modern" experience in this area comes from more than a decade in the Amazon Web
