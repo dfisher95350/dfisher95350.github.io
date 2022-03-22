@@ -19,9 +19,16 @@ My skills, experience, employment, and education in a nutshell.
 
 ### Management
 
-- Agile. Although the Agile Manifesto was first published in 2001, it was an expression of the development climate
-  of the late 90s. As such, the Agile methodology has been standard operating procedure throughout my career.
-- Compliance ISO 27001, OWASP, OAuth, SAML.
+- Agile. Although the Agile Manifesto was first published in 2001, it was an expression of the development climate of
+  the late 90s. As such, the Agile methodology has been standard operating procedure throughout my career.
+- Compliance.
+  Experience with high-level procedural audits, such as
+  [ISO 27001](https://en.wikipedia.org/wiki/ISO/IEC_27001),
+  [SOC](https://en.wikipedia.org/wiki/System_and_Organization_Controls).
+  Experience with implementation-level standards, such as
+  [OWASP](https://en.wikipedia.org/wiki/OWASP),
+  [OAuth](https://en.wikipedia.org/wiki/OAuth),
+  [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language).
 - Continuous Deployment. Much of my "modern" experience in this area comes from more than a decade in the Amazon Web
   Services (AWS) ecosystem.
 - Continuous Integration. I have a long history of designing and managing solutions and procedures around various
