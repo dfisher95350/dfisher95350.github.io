@@ -54,8 +54,8 @@ All the things that go into managing product development at an [Independent Soft
 
 ### Languages
 
-The heart of my background is object-oriented, aspect-oriented, and functional programming (and designing complex
-systems that leverage each), from the late 90s and continuing through the present.
+Hands-on object-oriented, aspect-oriented, and functional programming (and the design of complex systems that leverage
+each), from the late 90s and continuing through the present.
 
 - Java, since version 1. Name any major language or framework that runs on the Java Virtual Machine, and I've probably
   worked professionally with it. For example, Kotlin and Spring.
@@ -66,8 +66,8 @@ systems that leverage each), from the late 90s and continuing through the presen
 
 ### Data
 
-The catch-phrase, "data-driven", has never been more relevant as the present. It's been a staple of my career, and the
-aspect of software product development I care most about.
+The catch-phrase, "data-driven", has never been more relevant as the present. A staple of my career, and the aspect of
+software product development I care most about.
 
 - SQL-compliant databases, since 1998. MySQL, PostgreSQL, Oracle, Microsoft SQL Server, IBM Db2, IBM Informix, etc.
 - [Document stores](https://en.wikipedia.org/wiki/Document-oriented_database) (particularly
@@ -81,7 +81,19 @@ aspect of software product development I care most about.
 
 ### Architecture
 
-- design I am familiar with both the TOGAF and UML frameworks.
+Advanced to "technical architect" early in my career, and have been designing systems ever since.
+
+- Software Design. Frameworks, applications, platforms. Using
+  [UML](https://en.wikipedia.org/wiki/Unified_Modeling_Language),
+  [ERD](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model),
+  [BPM](https://en.wikipedia.org/wiki/Business_process_modeling), etc. since 1998. Most often with hands-on
+  proofs-of-concept.
+- Enterprise Architecture. Experience as both a consultant and the manager of an EA SaaS product. Familiar with TOGAF
+  and similar guiding frameworks.
+- Virtual Infrastructure. Hands-on experience designing and implementing solutions in Amazon Web Services (AWS), Docker,
+  Kubernetes, Vagrant. VMware before that.
+- Physical Infrastructure. Even today comes in handy when
+  understanding cloud-based [hypervisors](https://en.wikipedia.org/wiki/Hypervisor) and threading models.
 
 ### Operating Systems
 
