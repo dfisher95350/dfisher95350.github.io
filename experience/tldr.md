@@ -19,9 +19,9 @@ My skills, experience, employment, and education in a nutshell.
 
 ### Management
 
-- Although the Agile Manifesto was first published in 2001, it was an expression of the development climate of the late
-  90s. As such, the Agile methodology has been standard operating procedure throughout my career.
-- Project management and functional Quality Assurance (QA) Atlassian suite (including Jira), TestRail, etc.
+- **Agile**. Although the Agile Manifesto was first published in 2001, it was an expression of the development climate
+  of the late 90s. As such, the Agile methodology has been standard operating procedure throughout my career.
+- **Project Management**. and functional Quality Assurance (QA) Atlassian suite (including Jira), TestRail, etc.
 - Version control. I have a long history of designing and managing solutions and procedures around various popular
   version control and artifact management systems, including of course Git and GitHub.
 - Continuous integration. I have a long history of designing and managing solutions and procedures around various
@@ -31,8 +31,9 @@ My skills, experience, employment, and education in a nutshell.
   Services (AWS) ecosystem.
 - Compliance ISO 27001, OWASP, OAuth, SAML
 - design I am familiar with both the TOGAF and UML frameworks.
-- planning. As already mentioned, I am very familiar with Agile planning tools and techniques. My experience in Enterprise
-  Architecture gives me an additional layer of experience, in frameworks such as BIZBOK, COBIT, ITIL, ITSM, and PMBOK.
+- planning. As already mentioned, I am very familiar with Agile planning tools and techniques. My experience in
+  Enterprise Architecture gives me an additional layer of experience, in frameworks such as BIZBOK, COBIT, ITIL, ITSM,
+  and PMBOK.
 - Product management
 
 ### Languages
@@ -46,12 +47,14 @@ My skills, experience, employment, and education in a nutshell.
 
 ### Data
 
-- SQL-compliant databases, since 1998. MySQL, PostgreSQL, Oracle, IBM Db2, IBM Informix, etc.
+- SQL-compliant databases, since 1998. MySQL, PostgreSQL, Oracle, Microsoft SQL Server, IBM Db2, IBM Informix, etc.
 - [Document stores](https://en.wikipedia.org/wiki/Document-oriented_database) (particularly
   for [large-scale search](https://en.wikipedia.org/wiki/Enterprise_search) solutions), since 2000. Apache Lucene,
   Apache Solr, Elasticsearch.
 - [Graph databases](https://en.wikipedia.org/wiki/Graph_database) (Neo4j, Cypher) since 2015.
 - Object-relational (ORM) frameworks (e.g. Hibernate, Spring Data), since 2002.
+- Business Intelligence tools and frameworks (e.g. Tableau).
+- Data visualization (e.g. D3).
 - I dabble in data science (e.g. NumPy, Pandas, Anaconda) and machine-learning (e.g. TensorFlow).
 
 ### Architecture
