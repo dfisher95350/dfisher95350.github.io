@@ -6,6 +6,7 @@ layout: default-b
 
 The shorter version (TLDR).
 My skills, experience, employment, and education in a nutshell.
+You can download a PDF version of this material [here](../export/Douglas_Fisher_short_resume.pdf).
 
 ## Skills
 
