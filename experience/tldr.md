@@ -147,5 +147,4 @@ In a nutshell, I started as a computer geek, then went liberal arts until my wif
 - Saint Olaf College, Northfield, Minnesota. Bachelor of Arts, Magna Cum Laude, 1989. Double-majored in Philosophy and
   History.
 - Københavns Universitet, Denmark. History. Study abroad while @ Saint Olaf.
-- Minnesota State University. Computer Science. As my father was an administrator here, I was able to use free family
-  credits to begin my post-secondary education as a sophomore in high school.
+- Minnesota State University. Computer Science. Began my post-secondary education as a sophomore in high school.
