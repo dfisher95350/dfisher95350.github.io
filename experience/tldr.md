@@ -15,7 +15,7 @@ Abilities where positive feedback says I've been able to make exceptional contri
   implementation. Reducing friction at this boundary is a distinct competitive and innovative advantage. And yet product
   and technical disciplines are traditionally silo'd. Most people don't even _want_ to have expertise in both. I
   understand and appreciate both disciplines.
-- Depth and breadth. Adapt communications and contributions appropriate to the current audience or situation, from
+- Depth and breadth. Able to adapt communications and contributions appropriate to the current audience or situation, from
   hands-on pair programming to high-level board presentations. Useful in the weeds. Useful at ten-thousand feet.
 - Keeping it fresh. Don't plan to solutions but rather to solution vectors, so that technology choices can always be
   evolving in a forward direction.
