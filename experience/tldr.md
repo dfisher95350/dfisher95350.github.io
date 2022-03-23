@@ -13,7 +13,7 @@ Abilities where positive feedback says I've been able to make exceptional contri
 - Bridging the gap. Software product development is the discipline of translating product needs into technical
   implementation. Reducing friction at this boundary is a distinct competitive and innovative advantage. And yet product
   and technical disciplines are traditionally silo'd. Most people don't even _want_ to have expertise in both. I
-  understand and appreciate both.
+  understand and appreciate both disciplines.
 - Depth and breadth. Adapt communications and contributions appropriate to the current audience or situation, from
   hands-on pair programming to high-level board presentations. Useful in the weeds. Useful at ten-thousand feet.
 - Keeping it fresh. Don't plan to solutions but rather to solution vectors, so that technology choices can always be
@@ -22,7 +22,9 @@ Abilities where positive feedback says I've been able to make exceptional contri
 - Making it personal. Customers matter. Encourage direct interaction and make it as enjoyable as possible for everyone,
   particularly for developers who don't always love this aspect of the job. Nurture a sense of responsibility and
   respect.
-- Mentoring. Quality developers don't need hand-holding, but they do need to be set up for success.
+- Mentoring. Quality developers don't need hand-holding, but they do need to be set up for success. They need help
+  setting meaningful goals and expectations. They need help identifying the most productive tools (and patterns) for
+  their toolboxes.
 
 ## Experience
 
@@ -126,15 +128,26 @@ cloud-based (e.g. Amazon Web Services) systems since 2010.
 - My own software incubator, since 2021. Includes a major [fintech](https://en.wikipedia.org/wiki/Financial_technology)
   integration project ("Civis Mundi") to make personal banking history available across borders so that immigrants need
   not get stuck into the exploitative high-interest credit card game until they can develop domestic credit history.
-- VP Engineering, Planview/Changepoint, 2015-2021.
-- CTO and Product Manager, barometerIT, 2011-2015.
-- Chief Technologist, International Decision Systems, 2008-2011.
-- Senior Technical Architect, Perficient, 2006-2008.
-- Technical Architect, MSI Systems Integrators, 2005-2006.
-- Chief Architect, Notiva, 2002–2005.
-- Technical Architect, SPS Commerce, 1998-2001.
-- Renaissance Worldwide, 1998-1998.
-- Technical Lead, Minnesota Public Radio, 1995-1998.
+- VP Engineering, Planview/Changepoint, 2015-2021. Independent Software Vendor. After the acquisition of barometerIT,
+  helped Changepoint, and then Planview, evolve and grow the platform.
+- CTO and Product Manager, barometerIT, 2011-2015. Greenfield startup. Developed a SaaS product for Enterprise
+  Architecture management. Key customers included a number of Fortune 100 companies. Guided the company to acquisition
+  via engagement with key analysts (e.g. Gartner).
+- Chief Technologist, International Decision Systems, 2008-2011. Independent Software Vendor. Contributed to significant
+  decisions regarding the transition to next-gen software development patterns and platforms. Introduced a new technical
+  foundation still in use to this day (last checked 2022).
+- Senior Technical Architect, Perficient, 2006-2008. Consultancy. Various technical consulting projects, particularly
+  with respect to WebLogic and WebSphere Java application platforms (J2EE).
+- Technical Architect, MSI Systems Integrators, 2005-2006. Consultancy. Various technical consulting projects.
+- Chief Architect, Notiva, 2002–2005. Greenfield startup. Developed a SaaS product for B2B supply chain transaction
+  reconciliation. Key customers included Target Corp.
+- Technical Architect, SPS Commerce, 1998-2001. Independent Software Vendor. Developed a post-EDI platform to enable
+  small and medium-sized businesses to participate in large-scale transactional B2B supply chain integrations.
+- Technical Consultant, Renaissance Worldwide, 1998-1998. Consultancy. Technical consulting foot-soldiery.
+- [Webmaster](https://en.wikipedia.org/wiki/Webmaster), Minnesota Public Radio, 1995-1998. With the direct assistance of
+  Netscape, created a Web presence for one of the leading public media services in North America. Pioneered early live
+  video netcasts. With [Rivertown Trading](https://en.wikipedia.org/wiki/History_of_Target_Corporation), pioneered early
+  B2C e-commerce.
 
 ## Education
 
