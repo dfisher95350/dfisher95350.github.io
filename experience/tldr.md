@@ -156,7 +156,8 @@ Started as a computer geek, then went liberal arts until my wife's own graduate 
 (Cornell) gave me a dose of reality. Jumped off and joined the Internet revolution.
 
 - Brown University, Providence, Rhode Island. Master's Degree program with fellowship, 1995, incomplete. Archeology and
-  History.
+  History. (This is really only here to demonstrate that Ivy League schools, including Harvard, thought I was at least
+  smart enough to admit.)
 - University of Minnesota. Philosophy.
 - Saint Olaf College, Northfield, Minnesota. Bachelor of Arts, Magna Cum Laude, 1989. Double-majored in Philosophy and
   History.
