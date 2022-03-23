@@ -138,8 +138,8 @@ cloud-based (e.g. Amazon Web Services) systems since 2010.
 
 ## Education
 
-In a nutshell, I started as a computer geek, then went liberal arts until my wife's own graduate degree in archaeology
-(Cornell) gave me a dose of reality. I jumped off and joined the Internet revolution.
+Started as a computer geek, then went liberal arts until my wife's own graduate degree in archaeology
+(Cornell) gave me a dose of reality. Jumped off and joined the Internet revolution.
 
 - Brown University, Providence, Rhode Island. Master's Degree program with fellowship, 1995, incomplete. Archeology and
   History.
