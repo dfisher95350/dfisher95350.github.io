@@ -8,7 +8,7 @@ My GitHub repositories are private. This page is a public overview, in order to 
 
 ## General
 
-- **notebook** - A private repository of documents and notes on general topics in technology: concepts, patterns, providers, resources, standards, and tools.
+- [notebook](https://dfisher95350.github.io/notebook/) - A private repository of documents and notes on general topics in technology: concepts, patterns, providers, resources, standards, and tools.
 
 ## Languages
 
