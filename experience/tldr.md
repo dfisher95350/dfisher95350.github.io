@@ -2,8 +2,9 @@
 layout: default-b
 ---
 
-# TLDR
+# Resume
 
+The shorter version (TLDR).
 My skills, experience, employment, and education in a nutshell.
 
 ## Skills
