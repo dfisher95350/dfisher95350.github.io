@@ -8,19 +8,28 @@ My skills, experience, employment, and education in a nutshell.
 
 ## Skills
 
-- Bridging the gap.
+Abilities where positive feedback says I've been able to make exceptional contributions.
+
+- Bridging the gap. Software product development is the discipline of translating product needs into technical
+  implementation. Reducing friction at this boundary is a distinct competitive and innovative advantage. And yet product
+  and technical disciplines are traditionally silo'd. Most people don't even _want_ to have expertise in both. I
+  understand and appreciate both.
+- Depth and breadth. Adapt communications and contributions appropriate to the current audience or situation, from
+  hands-on pair programming to high-level board presentations. Useful in the weeds. Useful at ten-thousand feet.
 - Keeping it fresh. Don't plan to solutions but rather to solution vectors, so that technology choices can always be
   evolving in a forward direction.
 - Keeping it real. Use pragmatic, proven technical solutions for real-world problems. Make smart build v buy decisions.
-- Making it personal.
-- Hands-on
-- Mentoring.
+- Making it personal. Customers matter. Encourage direct interaction and make it as enjoyable as possible for everyone,
+  particularly for developers who don't always love this aspect of the job. Nurture a sense of responsibility and
+  respect.
+- Mentoring. Quality developers don't need hand-holding, but they do need to be set up for success.
 
 ## Experience
 
 ### Management
 
-All the things that go into managing product development at an [Independent Software Vendor (ISV)](https://en.wikipedia.org/wiki/Independent_software_vendor).
+All the things that go into managing product development at
+an [Independent Software Vendor (ISV)](https://en.wikipedia.org/wiki/Independent_software_vendor).
 
 - Agile. Although the [Agile](https://en.wikipedia.org/wiki/Agile_software_development) Manifesto was first published in
   2001, it was an expression of the development climate of the late 90s. As such, the Agile methodology has been
@@ -92,8 +101,8 @@ Advanced to "technical architect" early in my career, and have been designing sy
   and similar guiding frameworks.
 - Virtual Infrastructure. Hands-on experience designing and implementing solutions in Amazon Web Services (AWS), Docker,
   Kubernetes, Vagrant. VMware before that.
-- Physical Infrastructure. Even today comes in handy when
-  understanding cloud-based [hypervisors](https://en.wikipedia.org/wiki/Hypervisor) and threading models.
+- Physical Infrastructure. Even today comes in handy when understanding
+  cloud-based [hypervisors](https://en.wikipedia.org/wiki/Hypervisor) and threading models.
 
 ### Operating Systems
 
@@ -106,7 +115,7 @@ POSIX-compliant macOS since 2010.
 
 - Amazon Web Services (AWS). Since 2010 this has been my main professional deployment environment. Of course this means
   that I've worked with many of their sub-systems and services.
-- I've dabbled in Azure, Google Cloud Platform (GCP), Heroku, and more.
+- I've dabbled in Azure, Google Cloud Platform (GCP), Heroku, and others.
 
 ## Employment
 
