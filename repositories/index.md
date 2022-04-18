@@ -25,6 +25,7 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 - [python-fork](https://dfisher95350.github.io/python-fork/) - Another private repository for Python study.
 - [ruby](https://dfisher95350.github.io/ruby/) - A private repository for Ruby study.
 - [rust](https://dfisher95350.github.io/rust/) - A private repository for Rust study.
+- [spring](https://dfisher95350.github.io/spring/) - A private repository of all things Spring, the de facto standard language extensions for Java, Kotlin, etc.
 
 ## Data
 
