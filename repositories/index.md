@@ -61,3 +61,4 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 ## Other
 
 - [draw](https://dfisher95350.github.io/draw) - My drawings, paintings, etc.
+- [philosophy](https://dfisher95350.github.io/philosophy) - Study notes.
