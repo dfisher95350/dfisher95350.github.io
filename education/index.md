@@ -10,13 +10,10 @@ A summary of my educational background.
 
 Northfield, Minnesota
 
-Graduated 1989 Bachelor of Arts, Magna Cum Laude.
-
-Majors: History and Philosophy.
-
-Associations: Phi Beta Kappa academic honor society.
-
-Languages studied: Danish, German, Old Norse.
+- Graduated 1989 Bachelor of Arts, Magna Cum Laude.
+- Majors: History and Philosophy.
+- Associations: Phi Beta Kappa academic honor society.
+- Languages studied: Danish, German, Old Norse.
 
 ## Other Educational Experiences
 
@@ -24,29 +21,24 @@ Languages studied: Danish, German, Old Norse.
 
 Providence, Rhode Island
 
-Master's Degree program with fellowship, 1995.
-
-Concentration: Archeology and Art History.
-
-Languages studied: Latin.
+- Started Master's Degree program with fellowship. DNF.
+- Concentration: Archeology and Art History.
+- Languages studied: Latin.
 
 ### University of Minnesota
 
 Minneapolis, Minnesota
 
-Miscellaneous study.
-
-Concentration: Philosophy.
+- Miscellaneous study.
+- Concentration: Philosophy.
 
 ### Københavns Universitet
 
 Copenhagen, Denmark
 
-Attended via a study abroad program while at Saint Olaf College.
-
-Concentration: Scandinavian History.
-
-Languages studied: Danish.
+- Attended via a study abroad program while at Saint Olaf College.
+- Concentration: Scandinavian History.
+- Languages studied: Danish.
 
 ### Minnesota State University
 
