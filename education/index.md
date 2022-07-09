@@ -21,7 +21,7 @@ Northfield, Minnesota
 
 Providence, Rhode Island
 
-- Started Master's Degree program with fellowship. DNF.
+- Master's Degree program with fellowship. DNF.
 - Concentration: Archeology and Art History.
 - Languages studied: Latin.
 
