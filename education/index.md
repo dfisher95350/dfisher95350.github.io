@@ -4,7 +4,7 @@ layout: default-b
 
 # Education
 
-A detailed summary of my educational background.
+A summary of my educational background.
 
 ## St. Olaf College
 
@@ -12,7 +12,7 @@ Northfield, Minnesota
 
 Graduated 1989 Bachelor of Arts, Magna Cum Laude.
 
-Majors: Philosophy, Medieval Studies.
+Majors: History and Philosophy.
 
 Associations: Phi Beta Kappa academic honor society.
 
@@ -52,10 +52,7 @@ Languages studied: Danish.
 
 Mankato, Minnesota
 
-Began taking courses while attending Mankato West Senior High School.
-
-Transferred undergraduate credits to Saint Olaf College in 1986.
-
-Concentration: Computer Science, Basic, Pascal, Fortran, Cobol, Unix.
-
-Languages studied: French, German.
+- Began taking courses while attending Mankato West Senior High School.
+- Transferred undergraduate credits to Saint Olaf College.
+- Concentration: Computer Science (including Basic, Pascal, Fortran, Cobol, Unix).
+- Languages studied: French, German.
