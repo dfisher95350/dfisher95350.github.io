@@ -5,7 +5,7 @@ layout: default-b
 # Repositories
 
 My GitHub repositories are private. This page is a public overview, in order to give some idea of my interests and experience.
-Drill in to see my public notes (`docs`).
+Drill in to see my public notes, aka `docs`.
 
 ## General
 
@@ -31,7 +31,7 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 ## Data
 
 - [blockchain](https://dfisher95350.github.io/blockchain/) - A private repository for studying blockchain technologies.
-- [data](https://dfisher95350.github.io/data/) - A private repository for data science, data stores (**MySQL**, **Neo4j**, etc.), and data structures (**JSON**, **GraphQL**, etc.).
+- [data](https://dfisher95350.github.io/data/) - A private repository for studying data stores.
 - [data-flow](https://dfisher95350.github.io/data-flow/) - A private repository for the study of data flow frameworks (Camel, Kafka, Spring Cloud Data Flow, etc.).
 - [data-graph](https://dfisher95350.github.io/data-graph/) - A private repository for the study of graph databases (Neo4j, TinkerPop, etc.).
 - [data-ml](https://dfisher95350.github.io/data-ml/) - A private repository for the study of machine learning (DJL, Keras, PyTorch, TensorFlow, etc.).
