@@ -16,14 +16,12 @@ Drill in to see my public notes, aka `docs`.
 And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 
 - [cpp](https://dfisher95350.github.io/cpp/) - A private repository for C++ study.
-- [cpp-fork](https://dfisher95350.github.io/cpp-fork/) - Another private repository for C++ study.
 - [dotnet](https://dfisher95350.github.io/dotnet/) - A private repository for .NET study, particularly **.NET Core** on Linux and macOS. Includes **C#** and **F#**.
+- [lang-epi](https://dfisher95350.github.io/lang-epi/) - A private study for polyglot language study based on examples from the "Elements of Programming" series of books.
 - [go](https://dfisher95350.github.io/go/) - A private repository for Go study.
 - [java](https://dfisher95350.github.io/java/) - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
-- [java-fork](https://dfisher95350.github.io/java-fork/) - Another private repository for JVM study.
 - [javascript](https://dfisher95350.github.io/javascript/) - This private repository includes projects and exercises that leverage languages and frameworks like **TypeScript** and **React**.
 - [python](https://dfisher95350.github.io/python/) - A private repository for Python study.
-- [python-fork](https://dfisher95350.github.io/python-fork/) - Another private repository for Python study.
 - [ruby](https://dfisher95350.github.io/ruby/) - A private repository for Ruby study.
 - [rust](https://dfisher95350.github.io/rust/) - A private repository for Rust study.
 - [spring](https://dfisher95350.github.io/spring/) - A private repository of all things Spring, the de facto standard language extensions for Java, Kotlin, etc.
