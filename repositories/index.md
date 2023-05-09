@@ -20,7 +20,7 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 - [go](https://dfisher95350.github.io/go/) - A private repository for Go study.
 - [java](https://dfisher95350.github.io/java/) - A private repository of all things JVM, from **Akka** to **ZooKeeper**. Polyglot (includes **Kotlin**, **Groovy**, **Scala**, and **Clojure**).
 - [javascript](https://dfisher95350.github.io/javascript/) - This private repository includes projects and exercises that leverage languages and frameworks like **TypeScript** and **React**.
-- [lang-epi](https://dfisher95350.github.io/lang-epi/) - A private study for polyglot language study based on examples from the "Elements of Programming" series of books.
+- [lang-epi](https://dfisher95350.github.io/exercises/) - A private study for polyglot language study based on examples from the "Elements of Programming" series of books.
 - [python](https://dfisher95350.github.io/python/) - A private repository for Python study.
 - [ruby](https://dfisher95350.github.io/ruby/) - A private repository for Ruby study.
 - [rust](https://dfisher95350.github.io/rust/) - A private repository for Rust study.
@@ -29,7 +29,7 @@ And the frameworks that serve each language ecosystem (e.g. Hibernate, Spring).
 ## Data
 
 - [blockchain](https://dfisher95350.github.io/blockchain/) - A private repository for studying blockchain technologies.
-- [data](https://dfisher95350.github.io/data/) - A private repository for studying data stores.
+- [data](https://dfisher95350.github.io/data-store/) - A private repository for studying data stores.
 - [data-flow](https://dfisher95350.github.io/data-flow/) - A private repository for the study of data flow frameworks (Camel, Kafka, Spring Cloud Data Flow, etc.).
 - [data-graph](https://dfisher95350.github.io/data-graph/) - A private repository for the study of graph databases (Neo4j, TinkerPop, etc.).
 - [data-ml](https://dfisher95350.github.io/data-ml/) - A private repository for the study of machine learning (DJL, Keras, PyTorch, TensorFlow, etc.).
